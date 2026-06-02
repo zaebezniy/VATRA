@@ -1,0 +1,1007 @@
+# VATRA WORLD BIBLE V6.6
+
+# TOM XXIII — THE STUDENT ENCYCLOPEDIA
+
+# PART XI — THE NEXT GENERATION
+
+# YEAR VII CORE CAST
+
+---
+
+# INTRODUCTION
+
+Большинство историй Ватры рассказывают
+о преподавателях.
+
+---
+
+Это ошибка.
+
+---
+
+Преподаватели — прошлое.
+
+---
+
+Настоящее поле битвы —
+
+следующее поколение.
+
+---
+
+Именно нынешние студенты будут решать:
+
+- сохранить систему;
+- реформировать систему;
+- разрушить систему;
+- освободить преподавателей;
+- сохранить Печати;
+- уничтожить Печати;
+- продолжить цикл;
+- завершить цикл.
+
+---
+
+# STUDENT GENERATION Ω
+
+Возраст:
+
+17–19 лет
+
+---
+
+Количество ключевых студентов:
+
+24
+
+---
+
+Количество второстепенных:
+
+48
+
+---
+
+Количество скрытых:
+
+12
+
+---
+
+# FACTION MAP
+
+---
+
+Traditionalists
+
+---
+
+Reformists
+
+---
+
+Custodes
+
+---
+
+Lantern
+
+---
+
+Seekers
+
+---
+
+Neutral
+
+---
+
+Unknown
+
+---
+
+# TIER S STUDENTS
+
+---
+
+Это студенты,
+способные изменить судьбу мира.
+
+---
+
+# ARTHUR BLACKTHORN
+
+Age
+
+19
+
+---
+
+House
+
+Blackthorn
+
+---
+
+Faculty
+
+Ignis
+
+---
+
+Archetype
+
+The Heir
+
+---
+
+Potential Roles
+
+- Ректор
+- Хранитель
+- Освободитель
+
+---
+
+Strengths
+
+- лидерство
+- дипломатия
+- ритуалы
+
+---
+
+Weaknesses
+
+- чрезмерная ответственность
+- чувство долга
+
+---
+
+Secret
+
+Люциен подготовил его
+как потенциальную замену.
+
+---
+
+Relationship Score
+
+Eleanor +75
+
+Cecilia +68
+
+Player variable
+
+---
+
+Future Alignment
+
+Любой
+
+---
+
+# ELEANOR ASHCROFT
+
+Age
+
+18
+
+---
+
+House
+
+Ashcroft
+
+---
+
+Faculty
+
+Astra
+
+---
+
+Archetype
+
+The Revolutionary
+
+---
+
+Strengths
+
+- интеллект
+- политика
+- стратегия
+
+---
+
+Weaknesses
+
+- недоверие
+- скрытность
+
+---
+
+Secret
+
+Работает с реформаторами.
+
+---
+
+Potential Futures
+
+- Канцлер Европы
+- Лидер Реформ
+- Основатель новой системы
+
+---
+
+# CECILIA VALE
+
+Age
+
+18
+
+---
+
+House
+
+Vale
+
+---
+
+Faculty
+
+Umbra
+
+---
+
+Archetype
+
+The Liberator
+
+---
+
+Strengths
+
+- эмпатия
+- харизма
+- медицина
+
+---
+
+Weaknesses
+
+- импульсивность
+
+---
+
+Secret
+
+Пытается доказать,
+что преподавателей можно освободить.
+
+---
+
+Potential Futures
+
+- Великая Целительница
+- Лидер сопротивления
+- Новая Моргана
+
+---
+
+# MATTEO REED
+
+Age
+
+17
+
+---
+
+House
+
+Reed
+
+---
+
+Faculty
+
+Astra
+
+---
+
+Archetype
+
+The Timewalker
+
+---
+
+Strengths
+
+- астромагия
+- расчёты
+- предвидение
+
+---
+
+Weaknesses
+
+- тревожность
+- одержимость будущим
+
+---
+
+Secret
+
+Получает письма от себя будущего.
+
+---
+
+Potential Futures
+
+- Наблюдатель
+- Разрушитель циклов
+- Жертва циклов
+
+---
+
+# ELSA WINTER
+
+Age
+
+17
+
+---
+
+House
+
+Winter
+
+---
+
+Faculty
+
+Astra
+
+---
+
+Archetype
+
+The Dreamwalker
+
+---
+
+Strengths
+
+- пророчества
+- сновидения
+- эмпатия
+
+---
+
+Weaknesses
+
+- рассеянность
+- уход от реальности
+
+---
+
+Secret
+
+Видит Субъекта 0.
+
+---
+
+Potential Futures
+
+- Великая Оракул
+- Проводник циклов
+- Потерянная Сновидица
+
+---
+
+# VIKTORIA VON DRAKE
+
+Age
+
+18
+
+---
+
+House
+
+von Drake
+
+---
+
+Faculty
+
+Umbra
+
+---
+
+Archetype
+
+The Seeker
+
+---
+
+Strengths
+
+- исследование
+- поиск реликвий
+- риск
+
+---
+
+Weaknesses
+
+- любопытство
+- одержимость
+
+---
+
+Secret
+
+Уже контактировала с Последней Реликвией.
+
+---
+
+Potential Futures
+
+- Легендарный Искатель
+- Катализатор Катастрофы
+- Открыватель Источника
+
+---
+
+# LUCA THORNE
+
+Age
+
+18
+
+---
+
+House
+
+Thorne
+
+---
+
+Faculty
+
+Ignis
+
+---
+
+Archetype
+
+The Soldier
+
+---
+
+Strengths
+
+- бой
+- дисциплина
+- тактика
+
+---
+
+Weaknesses
+
+- эмоциональная закрытость
+
+---
+
+Secret
+
+Боится повторить путь Аларика.
+
+---
+
+Potential Futures
+
+- Генерал Европы
+- Защитник Ватры
+- Военный диктатор
+
+---
+
+# ADRIANA HALDEN
+
+Age
+
+17
+
+---
+
+House
+
+Halden
+
+---
+
+Faculty
+
+Astra
+
+---
+
+Archetype
+
+The Archivist
+
+---
+
+Strengths
+
+- память
+- история
+- расследования
+
+---
+
+Weaknesses
+
+- социальная изоляция
+
+---
+
+Secret
+
+Хранит воспоминания,
+которые никогда не принадлежали людям.
+
+---
+
+Potential Futures
+
+- Хранитель Истории
+- Создатель Новой Хронологии
+- Архивариус Циклов
+
+---
+
+# TIER A STUDENTS
+
+---
+
+# THOMAS CROWE
+
+Age
+
+18
+
+---
+
+Faculty
+
+Umbra
+
+---
+
+Secret
+
+Понимает язык демонов.
+
+---
+
+Potential
+
+Высокий.
+
+---
+
+# ELENA NOIR
+
+Age
+
+17
+
+---
+
+Faculty
+
+Umbra
+
+---
+
+Secret
+
+Создаёт собственную сеть шпионов.
+
+---
+
+Potential
+
+Очень высокий.
+
+---
+
+# MIGUEL TORQUEMADA
+
+Age
+
+18
+
+---
+
+Faculty
+
+Ignis
+
+---
+
+Secret
+
+Ненавидит Кандалы.
+
+---
+
+Potential
+
+Высокий.
+
+---
+
+# INGRID WINTER
+
+Age
+
+19
+
+---
+
+Secret
+
+Тайно помогает Reed.
+
+---
+
+# MARKUS VON DRAKE
+
+Age
+
+21
+
+---
+
+Secret
+
+Работает сразу на три фракции.
+
+---
+
+# KATARINA THORNE
+
+Age
+
+20
+
+---
+
+Secret
+
+Проводит незаконные экспедиции.
+
+---
+
+# LUCIEN VALE
+
+Age
+
+22
+
+---
+
+Secret
+
+Информатор Crown Office.
+
+---
+
+# EMILIA REED
+
+Age
+
+19
+
+---
+
+Secret
+
+Скрывает пророческие способности.
+
+---
+
+# TIER B STUDENTS
+
+---
+
+# SOFIA REED
+
+Age
+
+13
+
+---
+
+Слышит реликвии.
+
+---
+
+# CLARA VON DRAKE
+
+Age
+
+16
+
+---
+
+Очень высокая совместимость с артефактами.
+
+---
+
+# WILHELM VON DRAKE
+
+Age
+
+14
+
+---
+
+Определяет уровень угрозы реликвий.
+
+---
+
+# MAXIMILIAN THORNE
+
+Age
+
+16
+
+---
+
+Поклонник Аларика.
+
+---
+
+# BEATRICE ASHCROFT
+
+Age
+
+16
+
+---
+
+Прирождённый пророк.
+
+---
+
+# TOMAS HALDEN
+
+Age
+
+15
+
+---
+
+Помнит невозможные события.
+
+---
+
+# SOLVEIG WINTER
+
+Age
+
+13
+
+---
+
+Видит смерти.
+
+---
+
+# HIDDEN STUDENTS
+
+---
+
+# THE GIRL IN THE LIBRARY
+
+???
+
+---
+
+Официально не существует.
+
+---
+
+# THE BOY FROM LEVEL VII
+
+???
+
+---
+
+Не студент.
+
+---
+
+Но числится в одном архиве.
+
+---
+
+# THE EMPTY NAME
+
+???
+
+---
+
+Студент,
+чьё имя исчезло.
+
+---
+
+# RELATIONSHIP TRIANGLES
+
+---
+
+Arthur
+
+↓
+
+Eleanor
+
+↓
+
+Cecilia
+
+---
+
+Player
+
+↓
+
+любая сторона
+
+---
+
+Matteo
+
+↓
+
+Elsa
+
+↓
+
+Adriana
+
+---
+
+Thomas
+
+↓
+
+Elena Noir
+
+↓
+
+Viktoria
+
+---
+
+# FUTURE VILLAINS
+
+В зависимости от действий игрока:
+
+---
+
+Matteo Reed
+
+---
+
+Viktoria von Drake
+
+---
+
+Luca Thorne
+
+---
+
+Miguel Torquemada
+
+---
+
+Elena Noir
+
+---
+
+# FUTURE HEROES
+
+В зависимости от действий игрока:
+
+---
+
+Arthur
+
+---
+
+Elsa
+
+---
+
+Cecilia
+
+---
+
+Adriana
+
+---
+
+Eleanor
+
+---
+
+# FUTURE OBSERVERS
+
+Самые высокие шансы:
+
+---
+
+Matteo
+
+---
+
+Elsa
+
+---
+
+Player
+
+---
+
+Unknown Girl
+
+---
+
+# THE GENERATION Ω PROPHECY
+
+В архиве Winter найден текст:
+
+---
+
+> Следующее поколение
+>
+> не унаследует мир.
+>
+> Следующее поколение
+>
+> решит,
+>
+> должен ли мир существовать.
+
+---
+
+# END OF TOM XXIII PART XI
+
+---
+
+NEXT:
+
+TOM XXIII PART XII
+
+ROMANCES
+
+RIVALRIES
+
+SECRET RELATIONSHIPS
+
+BETRAYALS
+
+MARRIAGES
+
+FAMILY ALLIANCES
+
+THE SOCIAL WEB OF VATRA

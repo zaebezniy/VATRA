@@ -1,0 +1,535 @@
+# VATRA WORLD BIBLE V5.2
+
+# TOM XXI REMASTERED
+
+# THE GREAT ARTIFACT CATALOG
+
+---
+
+# NEW ARTIFACTS
+
+## MEMORY RELICS
+
+---
+
+# M-06
+
+The Widow's Diary
+
+Class III
+
+---
+
+Записывает воспоминания умерших.
+
+---
+
+Цена:
+
+начинает стирать воспоминания владельца.
+
+---
+
+# M-07
+
+The White Quill
+
+Class II
+
+---
+
+Записывает события будущего.
+
+---
+
+Никогда не пишет дату.
+
+---
+
+# M-08
+
+The Last Photograph
+
+Class III
+
+---
+
+Показывает последний день любого человека.
+
+---
+
+# M-09
+
+The Librarian's Eye
+
+Class IV
+
+---
+
+Помнит каждую прочитанную книгу.
+
+---
+
+Постепенно стирает собственную личность владельца.
+
+---
+
+# M-10
+
+The Forgotten Crown
+
+Class IV
+
+---
+
+Удаляет воспоминания о владельце.
+
+---
+
+## TIME RELICS
+
+---
+
+# T-06
+
+The Clockmaker's Heart
+
+Class IV
+
+---
+
+Замедляет старение.
+
+---
+
+Останавливает взросление.
+
+---
+
+# T-07
+
+The Brass Minute
+
+Class III
+
+---
+
+Позволяет прожить одну минуту дважды.
+
+---
+
+# T-08
+
+The Winter Calendar
+
+Class IV
+
+---
+
+Удаляет день из истории.
+
+---
+
+# T-09
+
+The Eternal Train Ticket
+
+Class V
+
+---
+
+Позволяет попасть на поезд,
+который не существует.
+
+---
+
+Связан со станцией под Ватрой.
+
+---
+
+# T-10
+
+The Black Stopwatch
+
+Class V
+
+---
+
+Останавливает время для одного человека.
+
+---
+
+## SHADOW RELICS
+
+---
+
+# S-06
+
+The King's Shadow
+
+Class IV
+
+---
+
+Отделяет тень владельца.
+
+---
+
+Тень начинает жить отдельно.
+
+---
+
+# S-07
+
+The Hollow Throne
+
+Class IV
+
+---
+
+Позволяет управлять толпой.
+
+---
+
+# S-08
+
+The Whisper Cabinet
+
+Class III
+
+---
+
+Хранит секреты.
+
+---
+
+Иногда начинает рассказывать их другим людям.
+
+---
+
+# S-09
+
+The Lantern of No Dawn
+
+Class V
+
+---
+
+Притягивает существ из разломов.
+
+---
+
+# S-10
+
+The Black Ribbon
+
+Class III
+
+---
+
+Позволяет скрывать эмоции.
+
+---
+
+Постепенно уничтожает их.
+
+---
+
+## DREAM RELICS
+
+---
+
+# D-01
+
+The Dream Compass
+
+Class II
+
+---
+
+Показывает путь во сне.
+
+---
+
+# D-02
+
+The Moon Mirror
+
+Class III
+
+---
+
+Соединяет сны двух людей.
+
+---
+
+# D-03
+
+The Sleeping Bell
+
+Class IV
+
+---
+
+Усыпляет целый город.
+
+---
+
+# D-04
+
+The Night Atlas
+
+Class IV
+
+---
+
+Карта мира снов.
+
+---
+
+# D-05
+
+The Last Pillow
+
+Class V
+
+---
+
+Показывает все прошлые циклы.
+
+---
+
+## DEATH RELICS
+
+---
+
+# X-01
+
+The Ferryman Coin
+
+Class III
+
+---
+
+Можно поговорить с умершим.
+
+---
+
+Один вопрос.
+
+---
+
+# X-02
+
+The Bone Crown
+
+Class IV
+
+---
+
+Управление нежитью.
+
+---
+
+# X-03
+
+The Empty Nameplate
+
+Class IV
+
+---
+
+Стирает человека из истории.
+
+---
+
+# X-04
+
+The Grave Key
+
+Class V
+
+---
+
+Открывает любую могилу.
+
+---
+
+# X-05
+
+The Mourning Veil
+
+Class III
+
+---
+
+Позволяет видеть души.
+
+---
+
+## SOURCE RELICS
+
+---
+
+# Ω-01
+
+The First Fragment
+
+Class Ω
+
+---
+
+Один из первых осколков Источника.
+
+---
+
+# Ω-02
+
+The Door Blueprint
+
+Class Ω
+
+---
+
+Чертёж чего-то невозможного.
+
+---
+
+# Ω-03
+
+The Observer's Lens
+
+Class Ω
+
+---
+
+Позволяет видеть циклы.
+
+---
+
+# Ω-04
+
+The Silent Equation
+
+Class Ω
+
+---
+
+Формула создания магии.
+
+---
+
+# Ω-05
+
+The Final Question
+
+Class Ω
+
+---
+
+Артефакт без свойств.
+
+---
+
+Никто не знает,
+что он делает.
+
+---
+
+# FAMILY ARTIFACTS
+
+---
+
+## House Blackthorn
+
+The First Key
+
+---
+
+## House Ashcroft
+
+The Iron Seal
+
+---
+
+## House Vale
+
+The Crimson Chalice
+
+---
+
+## House Reed
+
+Star Compass
+
+---
+
+## House Thorne
+
+Banner of Ash
+
+---
+
+## House Winter
+
+Moon Glass
+
+---
+
+## House Von Drake
+
+Hunter Ledger
+
+---
+
+## House Halden
+
+Empty Journal
+
+---
+
+# LIVING ARTIFACTS
+
+---
+
+## Unknown Girl
+
+Class Ω
+
+---
+
+## Boy from Level VII
+
+Class Ω
+
+---
+
+## Vatra
+
+Class Ω
+
+---
+
+Да.
+
+---
+
+Сама школа является артефактом.
+
+---
+
+# META DISCOVERY
+
+Если собрать все артефакты класса Ω:
+
+открывается архив:
+
+The Makers Collection
+
+---
+
+Который не существовал в предыдущих циклах.
+
+---
+
+END OF TOM XXI REMASTERED

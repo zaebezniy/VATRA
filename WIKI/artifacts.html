@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VATRA — Каталог Артефактов</title>
+<style>
+  :root {
+    --bg: #0d0d0f; --panel: #141418; --border: #2a2a35;
+    --accent: #c8833a; --accent2: #7a4fc4; --text: #e8e0d0; --muted: #6b6478;
+    --glow: rgba(200,131,58,0.12);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Georgia', serif; min-height: 100vh; }
+
+  .header { text-align: center; padding: 28px 20px 16px; border-bottom: 1px solid var(--border); background: linear-gradient(180deg,#1a1018 0%,var(--bg) 100%); }
+  .header h1 { font-size: 1.8rem; letter-spacing: 0.3em; color: var(--accent); text-transform: uppercase; }
+  .header p { color: var(--muted); font-size: 0.8rem; margin-top: 4px; }
+
+  .controls { padding: 16px 24px; border-bottom: 1px solid var(--border); display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  .search-box { flex: 1; min-width: 180px; background: var(--panel); border: 1px solid var(--border); color: var(--text); padding: 8px 14px; border-radius: 4px; font-family: 'Georgia', serif; font-size: 0.85rem; outline: none; }
+  .search-box:focus { border-color: var(--accent); }
+  .filter-group { display: flex; gap: 6px; flex-wrap: wrap; }
+  .filter-btn { background: var(--panel); border: 1px solid var(--border); color: var(--muted); padding: 6px 12px; border-radius: 3px; cursor: pointer; font-size: 0.75rem; font-family: 'Georgia', serif; letter-spacing: 0.08em; transition: all 0.2s; }
+  .filter-btn.active, .filter-btn:hover { border-color: var(--accent); color: var(--accent); background: var(--glow); }
+  .count { color: var(--muted); font-size: 0.78rem; margin-left: auto; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; padding: 20px 24px; }
+
+  .card {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 6px; padding: 16px; cursor: pointer;
+    transition: all 0.2s; position: relative; overflow: hidden;
+  }
+  .card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; opacity: 0.7; }
+  .card.class-I::before { background: #7ec87e; }
+  .card.class-II::before { background: #d4b84a; }
+  .card.class-III::before { background: #c8833a; }
+  .card.class-IV::before { background: #9b5ccc; }
+  .card.class-V::before { background: #9b2f2f; }
+  .card.class-O::before { background: #4a90d4; }
+  .card:hover { transform: translateY(-2px); box-shadow: 0 4px 20px rgba(0,0,0,0.4); }
+  .card.selected { border-color: var(--accent); box-shadow: 0 0 16px var(--glow); }
+
+  .card-id { color: var(--muted); font-size: 0.68rem; letter-spacing: 0.1em; }
+  .card-name { color: var(--text); font-size: 0.92rem; margin: 6px 0 4px; line-height: 1.3; }
+  .card-category { color: var(--muted); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; }
+  .card-class {
+    display: inline-block; font-size: 0.65rem; padding: 2px 8px;
+    border-radius: 2px; margin-top: 8px; text-transform: uppercase; letter-spacing: 0.1em; font-weight: bold;
+  }
+  .badge-I { background: rgba(126,200,126,0.15); color: #7ec87e; border: 1px solid rgba(126,200,126,0.3); }
+  .badge-II { background: rgba(212,184,74,0.15); color: #d4b84a; border: 1px solid rgba(212,184,74,0.3); }
+  .badge-III { background: rgba(200,131,58,0.15); color: #c8833a; border: 1px solid rgba(200,131,58,0.3); }
+  .badge-IV { background: rgba(155,92,204,0.15); color: #b07ee0; border: 1px solid rgba(155,92,204,0.3); }
+  .badge-V { background: rgba(155,47,47,0.15); color: #d07070; border: 1px solid rgba(155,47,47,0.3); }
+  .badge-O { background: rgba(74,144,212,0.15); color: #7ab4f0; border: 1px solid rgba(74,144,212,0.3); }
+
+  .detail-panel {
+    position: fixed; right: 0; top: 0; bottom: 0; width: 380px;
+    background: #100e14; border-left: 1px solid var(--border);
+    padding: 28px 24px; overflow-y: auto; transform: translateX(100%);
+    transition: transform 0.3s; z-index: 100;
+  }
+  .detail-panel.open { transform: translateX(0); }
+  .detail-close { position: absolute; top: 16px; right: 16px; background: none; border: 1px solid var(--border); color: var(--muted); width: 28px; height: 28px; border-radius: 3px; cursor: pointer; font-size: 0.9rem; }
+  .detail-id { color: var(--muted); font-size: 0.72rem; letter-spacing: 0.1em; }
+  .detail-name { color: var(--accent); font-size: 1.2rem; margin: 8px 0 4px; line-height: 1.3; }
+  .detail-category { color: var(--muted); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 20px; }
+  .detail-section { margin-bottom: 16px; }
+  .detail-section h4 { color: var(--muted); font-size: 0.68rem; letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 6px; }
+  .detail-section p { color: var(--text); font-size: 0.85rem; line-height: 1.6; }
+  .detail-section .danger { color: #d07070; font-style: italic; }
+  .detail-divider { border: none; border-top: 1px solid var(--border); margin: 16px 0; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>⚗ Великий Каталог Артефактов</h1>
+  <p>Magnum Repositorium · Хранилище Ватры · Только 100 признаны достаточно опасными для постоянного надзора</p>
+</div>
+
+<div class="controls">
+  <input class="search-box" id="searchBox" placeholder="Поиск по названию или описанию..." oninput="render()">
+  <div class="filter-group">
+    <button class="filter-btn active" data-filter="all" onclick="setFilter('all',this)">Все</button>
+    <button class="filter-btn" data-filter="I" onclick="setFilter('I',this)">Класс I</button>
+    <button class="filter-btn" data-filter="II" onclick="setFilter('II',this)">Класс II</button>
+    <button class="filter-btn" data-filter="III" onclick="setFilter('III',this)">Класс III</button>
+    <button class="filter-btn" data-filter="IV" onclick="setFilter('IV',this)">Класс IV</button>
+    <button class="filter-btn" data-filter="V" onclick="setFilter('V',this)">Класс V</button>
+    <button class="filter-btn" data-filter="O" onclick="setFilter('O',this)">Класс Ω</button>
+  </div>
+  <div class="filter-group">
+    <button class="filter-btn active" data-cat="all-cat" onclick="setCat('all',this)">Все категории</button>
+    <button class="filter-btn" data-cat="memory" onclick="setCat('memory',this)">Память</button>
+    <button class="filter-btn" data-cat="time" onclick="setCat('time',this)">Время</button>
+    <button class="filter-btn" data-cat="shadow" onclick="setCat('shadow',this)">Тень</button>
+    <button class="filter-btn" data-cat="life" onclick="setCat('life',this)">Жизнь</button>
+    <button class="filter-btn" data-cat="power" onclick="setCat('power',this)">Власть</button>
+    <button class="filter-btn" data-cat="reality" onclick="setCat('reality',this)">Реальность</button>
+    <button class="filter-btn" data-cat="dream" onclick="setCat('dream',this)">Сны</button>
+    <button class="filter-btn" data-cat="death" onclick="setCat('death',this)">Смерть</button>
+    <button class="filter-btn" data-cat="omega" onclick="setCat('omega',this)">Ω-Источник</button>
+  </div>
+  <div class="count" id="countDisplay">— артефактов</div>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<div class="detail-panel" id="detailPanel">
+  <button class="detail-close" onclick="closeDetail()">✕</button>
+  <div id="detailContent"></div>
+</div>
+
+<script>
+const ARTIFACTS = [
+  // MEMORY
+  {id:'M-01', name:'The Mirror of Regret', cat:'memory', catName:'Память', cls:'II', desc:'Показывает человеку его самое большое сожаление.', danger:'Через 72 часа жертва перестаёт отличать прошлое от настоящего.', loc:'Венеция'},
+  {id:'M-02', name:'The Book Without End', cat:'memory', catName:'Память', cls:'III', desc:'Каждый читатель дописывает книгу.', danger:'Книга начинает переписывать воспоминания автора.'},
+  {id:'M-03', name:'The Forgotten Clock', cat:'memory', catName:'Память', cls:'IV', desc:'Может удалить один день из памяти целого города.'},
+  {id:'M-04', name:'The Silver Mask', cat:'memory', catName:'Память', cls:'III', desc:'Надевший получает воспоминания другого человека.', danger:'Иногда вместе с личностью.'},
+  {id:'M-05', name:'The Nameless Bell', cat:'memory', catName:'Память', cls:'IV', desc:'После звона мир забывает выбранного человека.'},
+  {id:'M-06', name:"The Widow's Diary", cat:'memory', catName:'Память', cls:'III', desc:'Записывает воспоминания умерших.', danger:'Начинает стирать воспоминания владельца.'},
+  {id:'M-07', name:'The White Quill', cat:'memory', catName:'Память', cls:'II', desc:'Записывает события будущего. Никогда не пишет дату.'},
+  {id:'M-08', name:'The Last Photograph', cat:'memory', catName:'Память', cls:'III', desc:'Показывает последний день любого человека.'},
+  {id:"M-09", name:"The Librarian's Eye", cat:'memory', catName:'Память', cls:'IV', desc:'Помнит каждую прочитанную книгу.', danger:'Постепенно стирает собственную личность владельца.'},
+  {id:'M-10', name:'The Forgotten Crown', cat:'memory', catName:'Память', cls:'IV', desc:'Удаляет воспоминания о владельце.'},
+  // LIFE
+  {id:'L-01', name:'The Ash Seed', cat:'life', catName:'Жизнь', cls:'III', desc:'Из него вырастает дерево. Каждый плод продлевает жизнь.', danger:'Сокращает жизнь случайного человека.'},
+  {id:'L-02', name:'The Bleeding Rose', cat:'life', catName:'Жизнь', cls:'II', desc:'Лечит любую болезнь.', danger:'Каждое использование вызывает новую болезнь.'},
+  {id:'L-03', name:'Heart of Spring', cat:'life', catName:'Жизнь', cls:'IV', desc:'Может вернуть умершего.', danger:'На три дня.'},
+  {id:'L-04', name:'The Hunger Root', cat:'life', catName:'Жизнь', cls:'III', desc:'Создаёт бесконечный урожай.', danger:'Постепенно уничтожает экосистему.'},
+  {id:'L-05', name:'The Green Crown', cat:'life', catName:'Жизнь', cls:'V', desc:'Позволяет контролировать всю растительность континента.'},
+  // POWER
+  {id:'P-01', name:'Crown of Ashes', cat:'power', catName:'Власть', cls:'V', desc:'Каждый правитель становится непобедимым.', danger:'Через год теряет рассудок.'},
+  {id:"P-02", name:"The Emperor's Ring", cat:'power', catName:'Власть', cls:'IV', desc:'Заставляет людей говорить правду.', danger:'Включая владельца.'},
+  {id:'P-03', name:'Scepter of Kings', cat:'power', catName:'Власть', cls:'III', desc:'Усиливает харизму до сверхъестественного уровня.'},
+  {id:'P-04', name:'Black Throne', cat:'power', catName:'Власть', cls:'IV', desc:'Любой сидящий становится идеальным правителем.', danger:'Но перестаёт испытывать эмоции.'},
+  {id:'P-05', name:'The Last Standard', cat:'power', catName:'Власть', cls:'V', desc:'Может объединить армии Европы. Или уничтожить их.'},
+  // SHADOW
+  {id:'S-01', name:'The Whispering Knife', cat:'shadow', catName:'Тень', cls:'III', desc:'Постоянно предлагает убить кого-то.'},
+  {id:'S-02', name:'The Hollow Lantern', cat:'shadow', catName:'Тень', cls:'III', desc:'Привлекает призраков.'},
+  {id:'S-03', name:'The Eater of Names', cat:'shadow', catName:'Тень', cls:'IV', desc:'Стирает личность жертвы.'},
+  {id:'S-04', name:'The Black Candle', cat:'shadow', catName:'Тень', cls:'IV', desc:'Позволяет говорить с мёртвыми.', danger:'Они начинают отвечать.'},
+  {id:'S-05', name:'The Empty Coffin', cat:'shadow', catName:'Тень', cls:'V', desc:'Каждую ночь кто-то оказывается внутри. Никто не знает как.'},
+  {id:"S-06", name:"The King's Shadow", cat:'shadow', catName:'Тень', cls:'IV', desc:'Отделяет тень владельца.', danger:'Тень начинает жить отдельно.'},
+  {id:'S-07', name:'The Hollow Throne', cat:'shadow', catName:'Тень', cls:'IV', desc:'Позволяет управлять толпой.'},
+  {id:'S-08', name:'The Whisper Cabinet', cat:'shadow', catName:'Тень', cls:'III', desc:'Хранит секреты.', danger:'Иногда начинает рассказывать их другим людям.'},
+  {id:'S-09', name:'The Lantern of No Dawn', cat:'shadow', catName:'Тень', cls:'V', desc:'Притягивает существ из разломов.'},
+  {id:'S-10', name:'The Black Ribbon', cat:'shadow', catName:'Тень', cls:'III', desc:'Позволяет скрывать эмоции.', danger:'Постепенно уничтожает их.'},
+  // TIME
+  {id:'T-01', name:'Hourglass of Ages', cat:'time', catName:'Время', cls:'V', desc:'Позволяет изменить один момент прошлого.', danger:'Цена неизвестна.'},
+  {id:'T-02', name:'The Broken Calendar', cat:'time', catName:'Время', cls:'III', desc:'Некоторые дни начинают повторяться.'},
+  {id:'T-03', name:'The Second Sun', cat:'time', catName:'Время', cls:'IV', desc:'Показывает возможное будущее.', danger:'Всегда ошибается в одном критическом моменте.'},
+  {id:'T-04', name:'The Last Minute', cat:'time', catName:'Время', cls:'V', desc:'Останавливает время на одну минуту. Для всего мира.'},
+  {id:'T-05', name:'Watch of No Return', cat:'time', catName:'Время', cls:'V', desc:'Позволяет увидеть свою смерть.'},
+  {id:"T-06", name:"The Clockmaker's Heart", cat:'time', catName:'Время', cls:'IV', desc:'Замедляет старение. Останавливает взросление.'},
+  {id:'T-07', name:'The Brass Minute', cat:'time', catName:'Время', cls:'III', desc:'Позволяет прожить одну минуту дважды.'},
+  {id:'T-08', name:'The Winter Calendar', cat:'time', catName:'Время', cls:'IV', desc:'Удаляет день из истории.'},
+  {id:'T-09', name:'The Eternal Train Ticket', cat:'time', catName:'Время', cls:'V', desc:'Позволяет попасть на поезд, который не существует. Связан со станцией под Ватрой.'},
+  {id:'T-10', name:'The Black Stopwatch', cat:'time', catName:'Время', cls:'V', desc:'Останавливает время для одного человека.'},
+  // REALITY
+  {id:'R-01', name:'The Stone Door', cat:'reality', catName:'Реальность', cls:'V', desc:'Открывает проходы между мирами.'},
+  {id:'R-02', name:'The Glass Key', cat:'reality', catName:'Реальность', cls:'IV', desc:'Открывает любую дверь.', danger:'Кроме одной.'},
+  {id:"R-03", name:"The Painter's Frame", cat:'reality', catName:'Реальность', cls:'IV', desc:'Позволяет войти в картину.'},
+  {id:'R-04', name:'The Inverted Compass', cat:'reality', catName:'Реальность', cls:'V', desc:'Показывает не место. А возможность.'},
+  {id:'R-05', name:'The First Map', cat:'reality', catName:'Реальность', cls:'V', desc:'Содержит маршрут к Первой Реликвии.'},
+  // DREAM
+  {id:'D-01', name:'The Dream Compass', cat:'dream', catName:'Сны', cls:'II', desc:'Показывает путь во сне.'},
+  {id:'D-02', name:'The Moon Mirror', cat:'dream', catName:'Сны', cls:'III', desc:'Соединяет сны двух людей.'},
+  {id:'D-03', name:'The Sleeping Bell', cat:'dream', catName:'Сны', cls:'IV', desc:'Усыпляет целый город.'},
+  {id:'D-04', name:'The Night Atlas', cat:'dream', catName:'Сны', cls:'IV', desc:'Карта мира снов.'},
+  {id:'D-05', name:'The Last Pillow', cat:'dream', catName:'Сны', cls:'V', desc:'Показывает все прошлые циклы.'},
+  // DEATH
+  {id:'X-01', name:'The Ferryman Coin', cat:'death', catName:'Смерть', cls:'III', desc:'Можно поговорить с умершим. Один вопрос.'},
+  {id:'X-02', name:'The Bone Crown', cat:'death', catName:'Смерть', cls:'IV', desc:'Управление нежитью.'},
+  {id:'X-03', name:'The Empty Nameplate', cat:'death', catName:'Смерть', cls:'IV', desc:'Стирает человека из истории.'},
+  {id:'X-04', name:'The Grave Key', cat:'death', catName:'Смерть', cls:'V', desc:'Открывает любую могилу.'},
+  {id:'X-05', name:'The Mourning Veil', cat:'death', catName:'Смерть', cls:'III', desc:'Позволяет видеть души.'},
+  // OMEGA
+  {id:'Ω-01', name:'The First Fragment', cat:'omega', catName:'Ω-Источник', cls:'O', desc:'Один из первых осколков Источника. Прямая связь с Субъектом 0.'},
+  {id:'Ω-02', name:'The Door Blueprint', cat:'omega', catName:'Ω-Источник', cls:'O', desc:'Чертёж чего-то невозможного.'},
+  {id:'Ω-03', name:"The Observer's Lens", cat:'omega', catName:'Ω-Источник', cls:'O', desc:'Позволяет видеть циклы времени.'},
+  {id:'Ω-04', name:'The Silent Equation', cat:'omega', catName:'Ω-Источник', cls:'O', desc:'Формула создания магии.'},
+  {id:'Ω-05', name:'The Final Question', cat:'omega', catName:'Ω-Источник', cls:'O', desc:'Артефакт без свойств. Никто не знает, что он делает.', danger:'Запись №101: «Никогда не собирать все части вместе.»'},
+  // RELIC X
+  {id:'X-??', name:'RELIC X', cat:'omega', catName:'Неизвестно', cls:'O', desc:'Название отсутствует. Класс отсутствует. Описание отсутствует. Все документы уничтожены.', danger:'Единственная оставшаяся строка: «Никогда не собирать все части вместе.»'},
+  // FAMILY ARTIFACTS
+  {id:'FAM-BT', name:'The First Key', cat:'power', catName:'Семейный — Blackthorn', cls:'IV', desc:'Ключ, которым был открыт первый Архив знаний. Родовой артефакт Дома Блэкторн.'},
+  {id:'FAM-AS', name:'The Iron Seal', cat:'power', catName:'Семейный — Ashcroft', cls:'III', desc:'Создаёт неразрушимые юридические соглашения. Использовался для заключения государственных договоров.'},
+  {id:'FAM-VL', name:'The Crimson Chalice', cat:'life', catName:'Семейный — Vale', cls:'III', desc:'Чаша, определяющая истинные намерения выпившего из неё.'},
+  {id:'FAM-RD', name:'Star Compass', cat:'time', catName:'Семейный — Reed', cls:'III', desc:'Показывает не направление, а наиболее вероятное будущее.'},
+  {id:'FAM-TH', name:'Banner of Ash', cat:'power', catName:'Семейный — Thorne', cls:'III', desc:'Под этим знаменем не проигрывали ни одной битвы. Пока его несли в руках.'},
+  {id:'FAM-WT', name:'Moon Glass', cat:'dream', catName:'Семейный — Winter', cls:'III', desc:'Зеркало, показывающее человека таким, каким его видит судьба.'},
+  {id:'FAM-VD', name:'Hunter Ledger', cat:'memory', catName:'Семейный — Von Drake', cls:'II', desc:'Книга, в которой записывают себя все артефакты, которые охотник когда-либо держал в руках.'},
+  {id:'FAM-HL', name:'Empty Journal', cat:'memory', catName:'Семейный — Halden', cls:'III', desc:'Дневник, который заполняется сам. Записывает воспоминания всех, кто к нему прикасается.'},
+];
+
+let activeFilter = 'all';
+let activeCat = 'all';
+let selectedId = null;
+
+function setFilter(f, btn) {
+  activeFilter = f;
+  document.querySelectorAll('[data-filter]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+function setCat(c, btn) {
+  activeCat = c;
+  document.querySelectorAll('[data-cat]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  render();
+}
+
+function getFiltered() {
+  const q = document.getElementById('searchBox').value.toLowerCase();
+  return ARTIFACTS.filter(a => {
+    const clsMatch = activeFilter === 'all' || a.cls === activeFilter || (activeFilter === 'O' && a.cls === 'O');
+    const catMatch = activeCat === 'all' || a.cat === activeCat;
+    const qMatch = !q || a.name.toLowerCase().includes(q) || (a.desc||'').toLowerCase().includes(q) || a.id.toLowerCase().includes(q);
+    return clsMatch && catMatch && qMatch;
+  });
+}
+
+const DANGER_LABELS = { I:'ОГРАНИЧЕННЫЙ', II:'ОПАСНЫЙ', III:'КАТАСТРОФИЧЕСКИЙ', IV:'АПОКАЛИПТИЧЕСКИЙ', V:'УНИЧТОЖЕНИЕ', O:'Ω-КЛАСС' };
+const BADGE = { I:'badge-I', II:'badge-II', III:'badge-III', IV:'badge-IV', V:'badge-V', O:'badge-O' };
+
+function render() {
+  const items = getFiltered();
+  document.getElementById('countDisplay').textContent = `${items.length} артефактов`;
+  const grid = document.getElementById('grid');
+  grid.innerHTML = items.map(a => `
+    <div class="card class-${a.cls === 'O' ? 'O' : a.cls} ${selectedId === a.id ? 'selected' : ''}" onclick="showDetail('${a.id}')">
+      <div class="card-id">${a.id}</div>
+      <div class="card-name">${a.name}</div>
+      <div class="card-category">${a.catName}</div>
+      <div><span class="card-class ${BADGE[a.cls]}">${DANGER_LABELS[a.cls] || a.cls}</span></div>
+    </div>
+  `).join('');
+}
+
+function showDetail(id) {
+  const a = ARTIFACTS.find(x => x.id === id);
+  if (!a) return;
+  selectedId = id;
+  render();
+  const panel = document.getElementById('detailPanel');
+  const content = document.getElementById('detailContent');
+  content.innerHTML = `
+    <div class="detail-id">${a.id}</div>
+    <div class="detail-name">${a.name}</div>
+    <div class="detail-category">${a.catName} · Класс ${a.cls}</div>
+    <hr class="detail-divider">
+    <div class="detail-section">
+      <h4>Эффект</h4>
+      <p>${a.desc}</p>
+    </div>
+    ${a.danger ? `<div class="detail-section"><h4>⚠ Опасность / Цена</h4><p class="danger">${a.danger}</p></div>` : ''}
+    ${a.loc ? `<div class="detail-section"><h4>Место обнаружения</h4><p>${a.loc}</p></div>` : ''}
+    <div class="detail-section">
+      <h4>Уровень угрозы</h4>
+      <span class="card-class ${BADGE[a.cls]}" style="font-size:0.78rem;padding:4px 12px">${DANGER_LABELS[a.cls]}</span>
+      <p style="margin-top:10px;font-size:0.78rem;color:var(--muted)">
+        ${{
+          I:'Опасен для отдельных людей.',
+          II:'Опасен для поселений.',
+          III:'Опасен для регионов.',
+          IV:'Опасен для государств.',
+          V:'Опасен для всего мира.',
+          O:'Опасен для самой реальности.'
+        }[a.cls]}
+      </p>
+    </div>
+  `;
+  panel.classList.add('open');
+}
+
+function closeDetail() {
+  selectedId = null;
+  document.getElementById('detailPanel').classList.remove('open');
+  render();
+}
+
+render();
+</script>
+</body>
+</html>

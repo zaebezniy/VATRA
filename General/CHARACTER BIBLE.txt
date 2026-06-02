@@ -1,0 +1,1560 @@
+# VATRA WORLD BIBLE V4.1
+
+# TOM XVII — CHARACTER BIBLE
+
+# PART I — THE TWELVE PRISONERS
+
+---
+
+# INTRODUCTION
+
+Для большинства мира они являются преподавателями.
+
+Для правительства — заключёнными.
+
+Для Custodes Ignis — живыми печатями.
+
+Для студентов — наставниками.
+
+---
+
+Никто из них не является полностью героем.
+
+Никто из них не является полностью злодеем.
+
+---
+
+# CHARACTER STRUCTURE
+
+Каждый преподаватель имеет:
+
+- Официальную биографию
+- Реальную биографию
+- Тюремное дело
+- Уровень угрозы
+- Отношение к игроку
+- Отношение к Кандалам
+- Отношение к Субъекту 0
+- Отношение к финальному выбору
+- Личный квест
+- Секретный квест
+- Катастрофу, которой боится
+
+---
+
+# CHARACTER 01
+
+# LUCIEN BLACKTHORN
+
+## Title
+
+The Rector
+
+---
+
+## Age
+
+267
+
+---
+
+## Origin
+
+Scotland
+
+---
+
+## Faculty
+
+Astra
+
+---
+
+## Subject
+
+Высшая Ритуалистика
+
+---
+
+## Public Image
+
+Мудрый директор.
+
+---
+
+## Reality
+
+Один из архитекторов современной Ватры.
+
+---
+
+## Appearance
+
+Высокий.
+
+Худощавый.
+
+Седые волосы.
+
+Серебряные глаза.
+
+Всегда носит чёрный сюртук.
+
+---
+
+## Personality Traits
+
+- Stoic
+- Responsible
+- Brilliant
+- Secretive
+
+---
+
+## Likes
+
+- порядок
+- библиотека
+- шахматы
+
+---
+
+## Dislikes
+
+- фанатизм
+- политика
+- культ Первой Реликвии
+
+---
+
+## Daily Schedule
+
+06:00 Архив
+
+08:00 Урок
+
+12:00 Совет Custodes
+
+16:00 Кабинет
+
+22:00 Нижние уровни
+
+---
+
+## Secret
+
+Каждую ночь лично проверяет IX уровень.
+
+---
+
+## Fear
+
+Пробуждение Субъекта 0.
+
+---
+
+## Personal Quest
+
+The Weight of Duty
+
+---
+
+## Secret Quest
+
+The Last Keeper
+
+---
+
+## Final Alignment
+
+True Ending
+
+---
+
+Остаётся добровольно.
+
+---
+
+# CHARACTER 02
+
+# MORGANA VALE
+
+## Title
+
+The Forbidden Healer
+
+---
+
+## Age
+
+198
+
+---
+
+## Faculty
+
+Umbra
+
+---
+
+## Subject
+
+Запретная Магия
+
+---
+
+## Public Image
+
+Странная преподавательница.
+
+---
+
+## Reality
+
+Самый талантливый целитель эпохи.
+
+---
+
+## Appearance
+
+Тёмные волосы.
+
+Бледная кожа.
+
+Красные глаза.
+
+---
+
+## Personality
+
+- саркастичная
+- эмоциональная
+- заботливая
+
+---
+
+## Secret
+
+В тайне лечит студентов запрещёнными методами.
+
+---
+
+## Likes
+
+- музыка
+- чай
+- старые книги
+
+---
+
+## Dislikes
+
+- Виктор
+- Кандалы
+- Инквизиция
+
+---
+
+## Fear
+
+Что её исследования снова будут использованы неправильно.
+
+---
+
+## Personal Quest
+
+The Cost of Mercy
+
+---
+
+## Secret Quest
+
+The Crimson Cure
+
+---
+
+## Final Alignment
+
+Свобода преподавателей.
+
+---
+
+# CHARACTER 03
+
+# ALARIC THORNE
+
+## Title
+
+The Last General
+
+---
+
+## Age
+
+312
+
+---
+
+## Faculty
+
+Ignis
+
+---
+
+## Subject
+
+Боевая Магия
+
+---
+
+## Threat Level
+
+V
+
+---
+
+## Public Image
+
+Самый строгий преподаватель.
+
+---
+
+## Reality
+
+Самый опасный маг Ватры.
+
+---
+
+## Appearance
+
+Очень высокий.
+
+Много шрамов.
+
+Белые волосы.
+
+---
+
+## Secret
+
+Даже в кандалах способен победить большинство архимагов Европы.
+
+---
+
+## Likes
+
+- дисциплина
+- стратегия
+- фехтование
+
+---
+
+## Dislikes
+
+- хаос
+- трусость
+
+---
+
+## Fear
+
+Что ему снова придётся использовать полную силу.
+
+---
+
+## Personal Quest
+
+The Burden of Victory
+
+---
+
+## Secret Quest
+
+Ashes of War
+
+---
+
+# CHARACTER 04
+
+# OCTAVIA ASHMORE
+
+## Title
+
+The Alchemist
+
+---
+
+## Age
+
+241
+
+---
+
+## Subject
+
+Алхимия
+
+---
+
+## Public Image
+
+Эксцентричный гений.
+
+---
+
+## Reality
+
+Создала работающий прототип философского камня.
+
+---
+
+## Secret
+
+Каждый месяц тестирует новый план побега.
+
+---
+
+## Fear
+
+Прожить ещё 200 лет в Ватре.
+
+---
+
+## Personal Quest
+
+Gold Cannot Save You
+
+---
+
+# CHARACTER 05
+
+# ELIAS VOSS
+
+## Title
+
+Master of Beasts
+
+---
+
+## Age
+
+174
+
+---
+
+## Subject
+
+Магические Существа
+
+---
+
+## Public Image
+
+Любимец студентов.
+
+---
+
+## Reality
+
+Создатель химер.
+
+---
+
+## Secret
+
+Под школой живёт его первое создание.
+
+---
+
+## Fear
+
+Что его детище снова вырвется наружу.
+
+---
+
+## Personal Quest
+
+The First Chimera
+
+---
+
+# CHARACTER 06
+
+# SERAPHINA NOIR
+
+## Title
+
+The Queen of Shadows
+
+---
+
+## Age
+
+289
+
+---
+
+## Subject
+
+Теневая Магия
+
+---
+
+## Public Image
+
+Холодная красавица.
+
+---
+
+## Reality
+
+Единственный преподаватель,
+который действительно заслужил свой приговор.
+
+---
+
+## Secret
+
+Иногда помогает игроку.
+
+Иногда манипулирует им.
+
+---
+
+## Fear
+
+Не свободы.
+
+А забвения.
+
+---
+
+## Personal Quest
+
+The Price of Control
+
+---
+
+## Secret Quest
+
+The Black Throne
+
+---
+
+## Possible Role
+
+Главный антагонист одной из концовок.
+
+---
+
+# CHARACTER 07
+
+# GREGOR HALDEN
+
+## Title
+
+The Archivist
+
+---
+
+## Age
+
+331
+
+---
+
+## Subject
+
+История Магии
+
+---
+
+## Public Image
+
+Добрый старик.
+
+---
+
+## Reality
+
+Массово стирал память людям.
+
+---
+
+## Secret
+
+Некоторые исторические события Европы существуют только в его голове.
+
+---
+
+## Fear
+
+Умереть раньше,
+чем передаст знания.
+
+---
+
+# CHARACTER 08
+
+# ISOLDE WINTER
+
+## Title
+
+The Oracle
+
+---
+
+## Age
+
+227
+
+---
+
+## Subject
+
+Прорицание
+
+---
+
+## Public Image
+
+Тихая преподавательница.
+
+---
+
+## Reality
+
+Видела почти все возможные концовки мира.
+
+---
+
+## Secret
+
+Знает,
+какую концовку получит игрок.
+
+---
+
+## Fear
+
+Один конкретный вариант будущего.
+
+---
+
+# CHARACTER 09
+
+# ADRIAN CROWE
+
+## Title
+
+The Demonologist
+
+---
+
+## Age
+
+251
+
+---
+
+## Subject
+
+Демонология
+
+---
+
+## Public Image
+
+Шутник.
+
+---
+
+## Reality
+
+Носитель древнего демона.
+
+---
+
+## Secret
+
+Демон иногда говорит через него.
+
+---
+
+## Fear
+
+Потерять контроль.
+
+---
+
+# CHARACTER 10
+
+# HELENA VON DRAKE
+
+## Title
+
+The Hunter
+
+---
+
+## Age
+
+204
+
+---
+
+## Subject
+
+Артефактология
+
+---
+
+## Public Image
+
+Легендарный исследователь.
+
+---
+
+## Reality
+
+Лучший охотник за реликвиями в истории.
+
+---
+
+## Secret
+
+Знает местонахождение минимум 12 пропавших артефактов.
+
+---
+
+## Fear
+
+Что однажды все реликвии найдут друг друга.
+
+---
+
+# CHARACTER 11
+
+# MATTHIAS REED
+
+## Title
+
+The Astral Wanderer
+
+---
+
+## Age
+
+186
+
+---
+
+## Subject
+
+Астромагия
+
+---
+
+## Public Image
+
+Странный профессор.
+
+---
+
+## Reality
+
+Существует сразу в нескольких временных линиях.
+
+---
+
+## Secret
+
+Иногда разговаривает с другими версиями себя.
+
+---
+
+## Fear
+
+Что только он помнит предыдущий цикл мира.
+
+---
+
+# CHARACTER 12
+
+# VICTOR TORQUEMADA
+
+## Title
+
+The Warden
+
+---
+
+## Age
+
+389
+
+---
+
+## Subject
+
+Магическое Право
+
+---
+
+## Public Image
+
+Суровый юрист.
+
+---
+
+## Reality
+
+Создатель Кандалов.
+
+---
+
+## Greatest Secret
+
+Он не потомок Торквемады.
+
+Он сам Торквемада.
+
+---
+
+## Secret
+
+Каждую ночь его цепи светятся сильнее остальных.
+
+---
+
+## Fear
+
+Что игрок окажется прав.
+
+---
+
+## Personal Quest
+
+The Architect of Chains
+
+---
+
+## Secret Quest
+
+The First Sentence
+
+---
+
+## Final Role
+
+Ключевая фигура всех концовок.
+
+---
+
+# THE SECRET NETWORK
+
+Среди Двенадцати существуют скрытые связи.
+
+---
+
+Lucien ↔ Victor
+
+Старые союзники
+
+---
+
+Morgana ↔ Helena
+
+Друзья
+
+---
+
+Alaric ↔ Adrian
+
+Ветераны Великой Войны
+
+---
+
+Gregor ↔ Isolde
+
+Хранители пророчеств
+
+---
+
+Seraphina ↔ Cult
+
+Неизвестная связь
+
+---
+
+Matthias ↔ Subject 0
+
+Неизвестная связь
+
+---
+
+# FINAL DISCOVERY
+
+Игрок постепенно понимает:
+
+Двенадцать преподавателей —
+не просто заключённые.
+
+---
+
+Они являются последним поколением людей,
+которые ещё помнят,
+зачем вообще была создана Ватра.
+
+---
+
+END OF TOM XVII PART I
+
+# VATRA WORLD BIBLE V4.2
+
+# TOM XVII — CHARACTER BIBLE
+
+# PART II — THE EMBER GENERATION
+
+# THE STUDENTS OF VATRA
+
+---
+
+# INTRODUCTION
+
+Если Двенадцать Заключённых являются прошлым Ватры,
+
+то Студенты Пепельного Поколения являются её будущим.
+
+---
+
+Каждый студент связан минимум с одной из:
+
+- фракций;
+- катастроф;
+- реликвий;
+- преподавателей;
+- будущих концовок.
+
+---
+
+Многие из них даже не подозревают,
+что уже участвуют в событиях,
+которые изменят судьбу мира.
+
+---
+
+# S-TIER STUDENTS
+
+---
+
+# ELEANOR ASHCROFT
+
+## Faculty
+
+Astra
+
+---
+
+## Age
+
+18
+
+---
+
+## Family
+
+Ashcroft
+
+---
+
+## Archetype
+
+The Revolutionary Noble
+
+---
+
+## Public Image
+
+Идеальная наследница Короны.
+
+---
+
+## Hidden Truth
+
+Тайно помогает Пепельному Кругу.
+
+---
+
+## Secret Relationship
+
+Артур Блэкторн
+
+---
+
+## Hidden Romance
+
+Сесилия Вейл
+
+---
+
+## Future Roles
+
+Possible:
+
+- Rector
+- Minister of Magic
+- Leader of Reformists
+
+---
+
+## Ending A
+
+Становится частью системы.
+
+---
+
+## Ending D
+
+Ломает систему Короны.
+
+---
+
+# ARTHUR BLACKTHORN
+
+## Faculty
+
+Ignis
+
+---
+
+## Age
+
+19
+
+---
+
+## Archetype
+
+The Reluctant Heir
+
+---
+
+## Public Image
+
+Золотой мальчик Ватры.
+
+---
+
+## Hidden Truth
+
+Люциен скрывает,
+что Артур является его прямым наследником.
+
+---
+
+## Main Conflict
+
+Свобода против долга.
+
+---
+
+## Secret Fear
+
+Стать новым Люциеном.
+
+---
+
+## Romance
+
+Eleanor
+
+Cecilia
+
+Player
+
+---
+
+## Future Roles
+
+- Keeper
+- Rector
+- Founder of New Vatra
+
+---
+
+# CECILIA VALE
+
+## Faculty
+
+Umbra
+
+---
+
+## Age
+
+18
+
+---
+
+## Archetype
+
+The Liberator
+
+---
+
+## Hidden Truth
+
+Будущий лидер Children of the Lantern.
+
+---
+
+## Secret
+
+Собирает доказательства против Кандалов.
+
+---
+
+## Future Roles
+
+- Revolutionary
+- Healer
+- Resistance Leader
+
+---
+
+# MATTEO REED
+
+## Faculty
+
+Astra
+
+---
+
+## Age
+
+17
+
+---
+
+## Archetype
+
+The Timewalker
+
+---
+
+## Hidden Truth
+
+Получает сообщения от самого себя из будущего.
+
+---
+
+## Secret Quest
+
+The Forgotten Timeline
+
+---
+
+## Future Roles
+
+- New Oracle
+- Timekeeper
+- Lost Traveler
+
+---
+
+# A-TIER STUDENTS
+
+---
+
+# VIKTORIA VON DRAKE
+
+## Faculty
+
+Umbra
+
+---
+
+Лучший Seeker поколения.
+
+---
+
+## Hidden Truth
+
+Одержима поиском Последней Реликвии.
+
+---
+
+## Potential Corruption
+
+Высокая.
+
+---
+
+# LUCA THORNE
+
+## Faculty
+
+Ignis
+
+---
+
+Верит:
+
+Заключённые должны оставаться в тюрьме.
+
+---
+
+## Hidden Truth
+
+Позже меняет мнение.
+
+---
+
+# ELSA WINTER
+
+## Faculty
+
+Astra
+
+---
+
+Получает вещие сны.
+
+---
+
+## Secret
+
+Часто видит Субъекта 0.
+
+---
+
+# THOMAS CROWE
+
+## Faculty
+
+Umbra
+
+---
+
+Боится демонов.
+
+---
+
+## Hidden Truth
+
+Один из них живёт внутри него.
+
+---
+
+# ADRIANA HALDEN
+
+## Faculty
+
+Astra
+
+---
+
+Собирает воспоминания.
+
+---
+
+## Secret
+
+Некоторые воспоминания ей не принадлежат.
+
+---
+
+# MARIA VOSS
+
+## Faculty
+
+Silva
+
+---
+
+Самый талантливый маг существ за 50 лет.
+
+---
+
+## Secret
+
+Способна понимать язык химер.
+
+---
+
+# B-TIER STUDENTS
+
+---
+
+# EMIL RICHTER
+
+Ignis
+
+---
+
+Лучший дуэлянт курса.
+
+---
+
+Тайно работает на Корону.
+
+---
+
+# SOPHIA VERNE
+
+Silva
+
+---
+
+Будущий исследователь реликвий.
+
+---
+
+# DARIUS FALK
+
+Umbra
+
+---
+
+Мастер взлома архивов.
+
+---
+
+# ISABELLE MOREAU
+
+Astra
+
+---
+
+Сильнейший алхимик поколения.
+
+---
+
+# FREDERICK WOLFE
+
+Ignis
+
+---
+
+Будущий инквизитор.
+
+---
+
+# ELENA ROSSI
+
+Silva
+
+---
+
+Коллекционирует редкие растения.
+
+---
+
+# OLIVER VALE
+
+Umbra
+
+---
+
+Дальний родственник Морганы.
+
+---
+
+Тайно работает на Children of the Lantern.
+
+---
+
+# SPECIAL STUDENTS
+
+---
+
+# THE UNKNOWN GIRL
+
+---
+
+Имя:
+
+Неизвестно
+
+---
+
+Возраст:
+
+Неизвестно
+
+---
+
+Факультет:
+
+Отсутствует
+
+---
+
+## Description
+
+Появляется на фотографиях.
+
+---
+
+Иногда сидит на уроках.
+
+---
+
+Иногда исчезает.
+
+---
+
+Никто не может вспомнить,
+когда познакомился с ней.
+
+---
+
+## Secret
+
+Связана с Субъектом 0.
+
+---
+
+# THE BOY FROM LEVEL VII
+
+---
+
+Описание
+
+Мальчик в форме образца 128 летней давности.
+
+---
+
+Появляется только:
+
+- ночью;
+- во время катастроф;
+- возле Хранилища.
+
+---
+
+## Secret
+
+Не является призраком.
+
+---
+
+# THE SILENT STUDENT
+
+---
+
+Студент без имени.
+
+---
+
+Никогда не говорит.
+
+---
+
+Никогда не участвует в занятиях.
+
+---
+
+Но присутствует в списках.
+
+---
+
+## Secret
+
+Его не видят новые ученики.
+
+---
+
+Только старшие курсы.
+
+---
+
+# FUTURE FACTION LEADERS
+
+| Student | Future Faction |
+|----------|----------|
+| Eleanor | Reformists |
+| Arthur | Custodes |
+| Cecilia | Lantern |
+| Matteo | Silent Star |
+| Viktoria | Seekers |
+| Luca | Crown |
+| Elsa | Prophets |
+| Thomas | Umbra Network |
+
+---
+
+# STUDENT ROMANCE WEB
+
+---
+
+Arthur ↔ Eleanor
+
+---
+
+Arthur ↔ Cecilia
+
+---
+
+Eleanor ↔ Cecilia
+
+---
+
+Elsa ↔ Matteo
+
+---
+
+Viktoria ↔ Thomas
+
+---
+
+Player ↔ Multiple Routes
+
+---
+
+# HIDDEN ROMANCES
+
+---
+
+Morgana ↔ Helena
+
+(ancient unresolved feelings)
+
+---
+
+Lucien ↔ Isolde
+
+(never confessed)
+
+---
+
+Adrian ↔ Seraphina
+
+(dangerous history)
+
+---
+
+# GENERATIONAL PROPHECY
+
+Согласно старой записи:
+
+> Не Двенадцать изменят мир.
+>
+> Они уже сделали свой выбор.
+>
+> Мир изменят те,
+>
+> кто придёт после них.
+
+---
+
+Именно поэтому
+Поколение Пепла считается
+самым важным поколением
+за всю историю Ватры.
+
+---
+
+# END OF TOM XVII PART II
+

@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VATRA — Магический Календарь</title>
+<style>
+  :root {
+    --bg: #0d0d0f;
+    --panel: #141418;
+    --border: #2a2a35;
+    --accent: #c8833a;
+    --accent2: #7a4fc4;
+    --text: #e8e0d0;
+    --muted: #6b6478;
+    --danger: #9b2f2f;
+    --glow: rgba(200,131,58,0.15);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'Georgia', serif; min-height: 100vh; }
+
+  .header {
+    text-align: center; padding: 32px 20px 20px;
+    background: linear-gradient(180deg, #1a1018 0%, var(--bg) 100%);
+    border-bottom: 1px solid var(--border);
+  }
+  .header h1 { font-size: 2rem; letter-spacing: 0.3em; color: var(--accent); text-transform: uppercase; }
+  .header p { color: var(--muted); font-size: 0.85rem; margin-top: 6px; letter-spacing: 0.15em; }
+
+  .seasons-nav {
+    display: flex; justify-content: center; flex-wrap: wrap;
+    gap: 8px; padding: 20px; border-bottom: 1px solid var(--border);
+  }
+  .season-btn {
+    background: var(--panel); border: 1px solid var(--border);
+    color: var(--muted); padding: 8px 16px; border-radius: 4px;
+    cursor: pointer; font-family: 'Georgia', serif; font-size: 0.8rem;
+    letter-spacing: 0.1em; transition: all 0.2s; text-transform: uppercase;
+  }
+  .season-btn:hover, .season-btn.active {
+    border-color: var(--accent); color: var(--accent); background: var(--glow);
+  }
+
+  .main { display: flex; gap: 0; min-height: calc(100vh - 200px); }
+
+  .sidebar {
+    width: 280px; min-width: 280px; border-right: 1px solid var(--border);
+    padding: 24px 16px; overflow-y: auto;
+  }
+  .sidebar h3 { color: var(--accent); font-size: 0.75rem; letter-spacing: 0.2em; text-transform: uppercase; margin-bottom: 16px; }
+
+  .event-list { display: flex; flex-direction: column; gap: 8px; }
+  .event-item {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 4px; padding: 10px 12px; cursor: pointer;
+    transition: all 0.2s;
+  }
+  .event-item:hover, .event-item.active { border-color: var(--accent); background: var(--glow); }
+  .event-item .ev-name { font-size: 0.85rem; color: var(--text); }
+  .event-item .ev-date { font-size: 0.7rem; color: var(--muted); margin-top: 2px; }
+  .event-item .ev-class {
+    display: inline-block; font-size: 0.65rem; padding: 1px 6px;
+    border-radius: 2px; margin-top: 4px; text-transform: uppercase; letter-spacing: 0.1em;
+  }
+  .class-public { background: rgba(80,160,80,0.2); color: #7ec87e; border: 1px solid rgba(80,160,80,0.3); }
+  .class-hidden { background: rgba(130,80,180,0.2); color: #b07ee0; border: 1px solid rgba(130,80,180,0.3); }
+  .class-secret { background: rgba(160,40,40,0.2); color: #d07070; border: 1px solid rgba(160,40,40,0.3); }
+  .class-cosmic { background: rgba(200,131,58,0.2); color: var(--accent); border: 1px solid rgba(200,131,58,0.3); }
+
+  .content { flex: 1; padding: 28px 32px; overflow-y: auto; }
+
+  .season-card {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 8px; padding: 28px; margin-bottom: 24px;
+  }
+  .season-header { display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px; }
+  .season-symbol { font-size: 3rem; }
+  .season-info h2 { color: var(--accent); font-size: 1.4rem; letter-spacing: 0.1em; }
+  .season-info .season-months { color: var(--muted); font-size: 0.8rem; margin: 4px 0; letter-spacing: 0.1em; }
+  .season-info .season-theme { color: var(--text); font-size: 0.9rem; font-style: italic; }
+
+  .events-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .event-card {
+    background: var(--bg); border: 1px solid var(--border);
+    border-radius: 6px; padding: 16px; transition: all 0.2s;
+  }
+  .event-card.highlighted { border-color: var(--accent); box-shadow: 0 0 12px var(--glow); }
+  .event-card h4 { color: var(--accent); font-size: 0.9rem; margin-bottom: 6px; }
+  .event-card .ev-date-full { color: var(--muted); font-size: 0.72rem; margin-bottom: 8px; letter-spacing: 0.05em; }
+  .event-card p { color: var(--text); font-size: 0.82rem; line-height: 1.5; }
+  .event-card .hidden-text { color: var(--muted); font-size: 0.78rem; margin-top: 8px; font-style: italic; border-top: 1px solid var(--border); padding-top: 8px; }
+  .reveal-btn {
+    background: none; border: 1px solid var(--border); color: var(--muted);
+    padding: 4px 10px; font-size: 0.7rem; border-radius: 3px; cursor: pointer;
+    margin-top: 8px; font-family: 'Georgia', serif; transition: all 0.2s;
+  }
+  .reveal-btn:hover { border-color: var(--accent2); color: var(--accent2); }
+
+  .academic-bar {
+    background: var(--panel); border: 1px solid var(--border);
+    border-radius: 6px; padding: 20px; margin-bottom: 20px;
+  }
+  .academic-bar h3 { color: var(--accent); font-size: 0.75rem; letter-spacing: 0.2em; text-transform: uppercase; margin-bottom: 14px; }
+  .timeline { display: flex; gap: 0; }
+  .tl-item { flex: 1; text-align: center; padding: 8px 4px; border-right: 1px solid var(--border); }
+  .tl-item:last-child { border-right: none; }
+  .tl-season { font-size: 0.65rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.08em; }
+  .tl-activity { font-size: 0.7rem; color: var(--text); margin-top: 4px; }
+
+  .prophecy-box {
+    background: rgba(130,80,180,0.08); border: 1px solid rgba(130,80,180,0.3);
+    border-radius: 6px; padding: 20px; margin-top: 20px;
+  }
+  .prophecy-box h3 { color: var(--accent2); font-size: 0.75rem; letter-spacing: 0.2em; text-transform: uppercase; margin-bottom: 12px; }
+  .prophecy-box blockquote { color: var(--text); font-style: italic; line-height: 1.8; font-size: 0.88rem; }
+
+  @media (max-width: 800px) {
+    .main { flex-direction: column; }
+    .sidebar { width: 100%; min-width: 0; border-right: none; border-bottom: 1px solid var(--border); }
+    .events-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>⚑ VATRA — Магический Календарь</h1>
+  <p>Arcane Calendar · 1598 · The Ember Generation</p>
+</div>
+
+<div class="seasons-nav" id="seasonsNav"></div>
+
+<div class="main">
+  <div class="sidebar">
+    <h3>События года</h3>
+    <div class="event-list" id="eventList"></div>
+  </div>
+  <div class="content" id="mainContent"></div>
+</div>
+
+<script>
+const SEASONS = [
+  {
+    id: 'emberwake', name: 'Emberwake', months: 'Январь', symbol: '🔥', theme: 'Начало', symbolText: 'Уголь',
+    color: '#c8833a',
+    events: [
+      { name: 'Экзамены', type: 'public', date: 'Весь Emberwake', desc: 'Финальные экзамены учебного года. Худшие — отчислены. Лучшие — получают доступ к программе Seekers.', hidden: 'Custodes Ignis используют результаты для отбора потенциальных Хранителей.' },
+    ]
+  },
+  {
+    id: 'frostveil', name: 'Frostveil', months: 'Февраль', symbol: '❄️', theme: 'Тайны', symbolText: 'Лёд',
+    color: '#7ab4d4',
+    events: [
+      { name: 'Сезон Катастроф', type: 'secret', date: 'Весь Frostveil', desc: 'По статистике большинство крупных катастроф происходит именно в этот сезон.', hidden: 'Lucien знает почему. Frostveil — когда Печати наиболее уязвимы.' },
+    ]
+  },
+  {
+    id: 'bloomrise', name: 'Bloomrise', months: 'Март — Апрель', symbol: '🌿', theme: 'Рост', symbolText: 'Корень',
+    color: '#7ec87e',
+    events: [
+      { name: 'Rootfall', type: 'public', date: 'Середина Bloomrise', desc: 'Фестиваль факультета Silva. Высаживаются деревья, лекарственные растения, магические культуры.', hidden: 'В этот день легче всего услышать шёпот древних артефактов природы.' },
+      { name: 'Выпускной сезон', type: 'public', date: 'Конец Bloomrise', desc: 'Выпускники последнего года получают статус мага.', hidden: null },
+    ]
+  },
+  {
+    id: 'suncrest', name: 'Suncrest', months: 'Май — Июнь', symbol: '☀️', theme: 'Сила', symbolText: 'Солнце',
+    color: '#d4b84a',
+    events: [
+      { name: 'Feast of the First Flame', type: 'public', date: 'Начало Suncrest', desc: 'Главный праздник факультета Ignis. Традиции: соревнования, дуэли, испытания мужества.', hidden: 'Раньше этот день отмечал годовщину подавления Первого Магического Восстания.' },
+      { name: 'Night of a Thousand Stars', type: 'hidden', date: 'Конец Suncrest', desc: 'Студенты Astra проводят ночь под небом. Астрологические чтения, гадания, предсказания.', hidden: 'Раз в 12 лет появляются Красные Созвездия. Маттиас Рид исчезает на всю ночь.' },
+      { name: 'Турниры', type: 'public', date: 'Весь Suncrest', desc: 'Главный турнирный сезон года.', hidden: null },
+    ]
+  },
+  {
+    id: 'ashfall', name: 'Ashfall', months: 'Июль', symbol: '🌫️', theme: 'Память', symbolText: 'Пепел',
+    color: '#a08878',
+    events: [
+      { name: 'Сезон Экспедиций', type: 'public', date: 'Весь Ashfall', desc: 'Seekers и старшие студенты отправляются в экспедиции за реликвиями по всей Европе.', hidden: 'Некоторые экспедиции засекречены даже от самих студентов.' },
+    ]
+  },
+  {
+    id: 'stormreach', name: 'Stormreach', months: 'Август — Сентябрь', symbol: '⚡', theme: 'Перемены', symbolText: 'Молния',
+    color: '#7a8cd4',
+    events: [
+      { name: 'Night of Embers', type: 'public', date: '1 Stormreach', desc: 'Главный праздник года. Каждый студент получает свечу и проходит через Зал Углей. Официально — праздник посвящения.', hidden: 'В древности так отмечали новых заключённых. Это тюремная регистрация, замаскированная под ритуал.' },
+      { name: 'Прибытие студентов', type: 'public', date: '1 Stormreach', desc: 'Начало учебного года. Все студенты прибывают в Ватру.', hidden: null },
+      { name: 'Ash Crown Tournament', type: 'public', date: '15 Stormreach', desc: 'Главный дуэльный турнир. Категории: магия, алхимия, стратегия, артефактология. Победитель получает Золотую Корону Пепла + автоматический отбор в Seekers.', hidden: 'Победитель получает приглашение на закрытый ужин с Ректором и Custodes Ignis. Первый шаг к раскрытию тайны Хранилища.' },
+      { name: 'Seeker Selection', type: 'hidden', date: 'Каждый второй год', desc: 'Отбор охотников за реликвиями. Испытания: Знания, Смелости, Суждения, Тишины.', hidden: 'Существует пятое испытание — Trial of Truth. Официально не существует. Проверяет: сможет ли кандидат узнать правду и сохранить её.' },
+    ]
+  },
+  {
+    id: 'duskmantle', name: 'Duskmantle', months: 'Октябрь', symbol: '🏮', theme: 'Тени', symbolText: 'Фонарь',
+    color: '#a07ad4',
+    events: [
+      { name: 'Сезон Исследований', type: 'public', date: 'Весь Duskmantle', desc: 'Период работы с архивами, лабораторными исследованиями и изучением артефактов.', hidden: null },
+      { name: 'Foundation Day', type: 'secret', date: 'Засекречено', desc: 'Официально не существует.', hidden: 'Годовщина создания Хранилища. Преподаватели исчезают на весь день. Игрок может проследить за ними.' },
+    ]
+  },
+  {
+    id: 'longnight', name: 'Longnight', months: 'Ноябрь — Декабрь', symbol: '🔔', theme: 'Границы миров', symbolText: 'Колокол',
+    color: '#4a4a6a',
+    events: [
+      { name: 'Сезон Тайн', type: 'public', date: 'Весь Longnight', desc: 'Период, когда граница между мирами истончается. Повышается шанс увидеть духов и открыть скрытые двери.', hidden: null },
+      { name: 'Bell of Longnight', type: 'hidden', date: 'Последняя ночь Longnight', desc: 'Звенит колокол. Проблема: его не существует. У всех NPC особые диалоги. Преподаватели тревожны.', hidden: 'Некоторые артефакты начинают активироваться сами. Считается, что в этот момент Субъект 0 открывает глаза.' },
+      { name: 'Veil Thinning', type: 'hidden', date: 'Весь Longnight', desc: 'Граница между мирами становится тоньше каждый год в этот период.', hidden: null },
+      { name: 'The Missing Day', type: 'secret', date: 'Случайно', desc: 'Из календаря исчезает целый день. Для большинства он никогда не существовал.', hidden: 'Этот день связан с Субъектом 0. Каждый раз когда он "происходит" — что-то меняется в истории мира.' },
+    ]
+  },
+];
+
+const CELESTIAL = [
+  { name: 'Crimson Moon', freq: 'Раз в 27 лет', class: 'cosmic', desc: 'Усиливается теневая магия. Активируются реликвии. Кандалы становятся видимыми. Первый большой шаг к раскрытию Тайны Тюрьмы.' },
+  { name: 'The Falling Star', freq: 'Случайно', class: 'secret', desc: 'На Землю падает объект — иногда реликвия, иногда фрагмент Первой Реликвии. Запускается мировая экспедиция.' },
+  { name: 'The Second Dawn', freq: 'Раз в 89 лет', class: 'cosmic', desc: 'Восходит второе солнце на несколько минут. Прорицатели получают видения. Связь с альтернативными временными линиями.' },
+  { name: 'The Silent Hour', freq: 'Случайно', class: 'secret', desc: 'На 1 минуту все часы останавливаются, ветер исчезает, птицы перестают двигаться. Считается, что в этот момент Субъект 0 открывает глаза.' },
+];
+
+let activeSeason = 'stormreach';
+let activeEvent = null;
+
+function renderNav() {
+  const nav = document.getElementById('seasonsNav');
+  nav.innerHTML = SEASONS.map(s =>
+    `<button class="season-btn ${s.id === activeSeason ? 'active' : ''}" onclick="setSeason('${s.id}')">${s.symbol} ${s.name}</button>`
+  ).join('');
+}
+
+function renderSidebar() {
+  const list = document.getElementById('eventList');
+  const season = SEASONS.find(s => s.id === activeSeason);
+  const items = season.events.map((ev, i) =>
+    `<div class="event-item ${activeEvent === i ? 'active' : ''}" onclick="setEvent(${i})">
+      <div class="ev-name">${ev.name}</div>
+      <div class="ev-date">${ev.date}</div>
+      <span class="ev-class class-${ev.type}">${{public:'Публичное',hidden:'Скрытое',secret:'Секретное',cosmic:'Небесное'}[ev.type]}</span>
+    </div>`
+  ).join('');
+
+  list.innerHTML = items +
+    `<div style="margin-top:16px; padding-top:16px; border-top: 1px solid var(--border)">
+      <div style="color:var(--muted);font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:10px">Небесные события</div>
+      ${CELESTIAL.map((c,i) =>
+        `<div class="event-item" style="margin-bottom:6px">
+          <div class="ev-name" style="font-size:0.8rem">${c.name}</div>
+          <div class="ev-date">${c.freq}</div>
+          <span class="ev-class class-${c.class}">${c.class === 'cosmic' ? 'Небесное' : 'Секретное'}</span>
+        </div>`
+      ).join('')}
+    </div>`;
+}
+
+function renderContent() {
+  const season = SEASONS.find(s => s.id === activeSeason);
+  const content = document.getElementById('mainContent');
+
+  const academicHTML = `
+    <div class="academic-bar">
+      <h3>Академический Год — Arcane Calendar</h3>
+      <div class="timeline">
+        ${SEASONS.map(s => `
+          <div class="tl-item" style="${s.id === activeSeason ? `border-bottom: 2px solid ${s.color}` : ''}">
+            <div class="tl-season" style="${s.id === activeSeason ? `color:${s.color}` : ''}">${s.name}</div>
+            <div class="tl-activity">${s.theme}</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>`;
+
+  const eventsHTML = season.events.map((ev, i) => `
+    <div class="event-card ${activeEvent === i ? 'highlighted' : ''}" id="ev-${i}">
+      <div class="ev-class class-${ev.type}" style="margin-bottom:8px">${{public:'Публичное',hidden:'Скрытое',secret:'Секретное',cosmic:'Небесное'}[ev.type]}</div>
+      <h4>${ev.name}</h4>
+      <div class="ev-date-full">📅 ${ev.date} · ${season.name}</div>
+      <p>${ev.desc}</p>
+      ${ev.hidden ? `
+        <button class="reveal-btn" onclick="this.style.display='none';this.nextElementSibling.style.display='block'">▶ Скрытая информация</button>
+        <div class="hidden-text" style="display:none">🔍 ${ev.hidden}</div>
+      ` : ''}
+    </div>
+  `).join('');
+
+  content.innerHTML = `
+    ${academicHTML}
+    <div class="season-card">
+      <div class="season-header">
+        <div class="season-symbol">${season.symbol}</div>
+        <div class="season-info">
+          <h2>${season.name.toUpperCase()}</h2>
+          <div class="season-months">📅 ${season.months}</div>
+          <div class="season-theme">Тема: ${season.theme} · Символ: ${season.symbolText}</div>
+        </div>
+      </div>
+      <div class="events-grid">${eventsHTML}</div>
+    </div>
+    <div class="prophecy-box">
+      <h3>⚠ Пророчество Календаря</h3>
+      <blockquote>
+        «Когда Колокол прозвонит в день, которого нет,<br>
+        и последнее солнце взойдёт над Ватрой,<br>
+        двенадцать цепей будут разорваны,<br>
+        а первый узник вспомнит своё имя.»
+      </blockquote>
+    </div>
+  `;
+}
+
+function setSeason(id) {
+  activeSeason = id;
+  activeEvent = null;
+  renderNav();
+  renderSidebar();
+  renderContent();
+}
+
+function setEvent(i) {
+  activeEvent = i;
+  renderSidebar();
+  renderContent();
+  const el = document.getElementById('ev-' + i);
+  if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+// init
+renderNav();
+renderSidebar();
+renderContent();
+</script>
+</body>
+</html>

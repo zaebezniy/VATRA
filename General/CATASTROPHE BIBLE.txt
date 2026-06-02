@@ -1,0 +1,801 @@
+# VATRA WORLD BIBLE V3.1
+
+# TOM XIII — CATASTROPHE BIBLE
+
+# THE CRISES OF VATRA
+
+---
+
+# INTRODUCTION
+
+Большинство магических школ боится несчастных случаев.
+
+---
+
+Ватра боится катастроф.
+
+---
+
+Потому что каждая катастрофа:
+
+- раскрывает правду;
+- ослабляет Хранилище;
+- усиливает реликвии;
+- приближает пробуждение Субъекта 0.
+
+---
+
+# DESIGN GOAL
+
+Катастрофы являются не просто событиями.
+
+---
+
+Это основной механизм раскрытия сюжета.
+
+---
+
+# STORY REVEAL SYSTEM
+
+---
+
+## Stage 1
+
+School
+
+Катастрофы кажутся случайностями.
+
+---
+
+## Stage 2
+
+Prison
+
+Появляются Кандалы.
+
+---
+
+## Stage 3
+
+Repository
+
+Игрок узнаёт о Хранилище.
+
+---
+
+## Stage 4
+
+Collection
+
+Игрок понимает связь реликвий.
+
+---
+
+## Stage 5
+
+Foundation
+
+Игрок узнаёт о Субъекте 0.
+
+---
+
+# CATEGORY I
+
+# ACADEMIC CRISES
+
+---
+
+# CATASTROPHE 01
+
+## THE MISFIRED RITUAL
+
+---
+
+Threat Level:
+
+I
+
+---
+
+Frequency:
+
+Каждый год
+
+---
+
+Description
+
+Студенты проводят ритуал неправильно.
+
+---
+
+Effects
+
+- временные аномалии;
+- призраки;
+- исчезновение предметов.
+
+---
+
+Lore Reveal
+
+Школа реагирует слишком быстро.
+
+---
+
+Первый намёк на скрытые защитные системы.
+
+---
+
+# CATASTROPHE 02
+
+## LIVING EXAMINATION
+
+---
+
+Threat Level:
+
+I
+
+---
+
+Экзаменационные конструкты выходят из-под контроля.
+
+---
+
+# CATASTROPHE 03
+
+## THE RUNAWAY HOMUNCULUS
+
+---
+
+Threat Level:
+
+I
+
+---
+
+Сбегает алхимическое существо.
+
+---
+
+# CATEGORY II
+
+# SCHOOL CRISES
+
+---
+
+# CATASTROPHE 04
+
+## THE CRIMSON MOON
+
+---
+
+Threat Level:
+
+II
+
+---
+
+Frequency
+
+Раз в 27 лет
+
+---
+
+First Major Reveal
+
+Кандалы становятся видимыми.
+
+---
+
+Visuals
+
+- красные цепи;
+- светящиеся руны;
+- истощённые преподаватели.
+
+---
+
+Student Reaction
+
+Паника.
+
+---
+
+Lore Reveal
+
+Учителя что-то скрывают.
+
+---
+
+# CATASTROPHE 05
+
+## THE SEVENTH BELL
+
+---
+
+Threat Level:
+
+II
+
+---
+
+Колокол звонит сам.
+
+---
+
+Проблема:
+
+его не существует.
+
+---
+
+Effects
+
+У всех начинаются одинаковые сны.
+
+---
+
+Lore Reveal
+
+Под школой есть нечто ещё.
+
+---
+
+# CATASTROPHE 06
+
+## THE WHISPERING HALLS
+
+---
+
+Threat Level:
+
+II
+
+---
+
+Коридоры начинают разговаривать.
+
+---
+
+Школа использует магию самостоятельно.
+
+---
+
+# CATEGORY III
+
+# PRISON CRISES
+
+---
+
+# CATASTROPHE 07
+
+## CHAIN FAILURE
+
+---
+
+Threat Level:
+
+III
+
+---
+
+Один преподаватель временно теряет ограничения.
+
+---
+
+Possible Targets
+
+- Morgana
+- Adrian
+- Seraphina
+
+---
+
+Lore Reveal
+
+Учителя — заключённые.
+
+---
+
+# CATASTROPHE 08
+
+## THE BROKEN SEAL
+
+---
+
+Threat Level:
+
+III
+
+---
+
+Одна из Печатей начинает разрушаться.
+
+---
+
+Effects
+
+Странные явления по всей школе.
+
+---
+
+# CATASTROPHE 09
+
+## THE FORGOTTEN CELL
+
+---
+
+Threat Level:
+
+III
+
+---
+
+Находится неизвестная тюремная камера.
+
+---
+
+Проблема:
+
+никто не помнит, кто там сидел.
+
+---
+
+# CATASTROPHE 10
+
+## THE ESCAPE ATTEMPT
+
+---
+
+Threat Level:
+
+III
+
+---
+
+Один преподаватель пытается сбежать.
+
+---
+
+Possible Outcomes
+
+Успех
+
+Провал
+
+Жертвы
+
+---
+
+# CATEGORY IV
+
+# REPOSITORY CRISES
+
+---
+
+# CATASTROPHE 11
+
+## ARTIFACT ESCAPE
+
+---
+
+Threat Level:
+
+III
+
+---
+
+Реликвия покидает камеру.
+
+---
+
+First Reveal
+
+Существует Хранилище.
+
+---
+
+# CATASTROPHE 12
+
+## THE HUNGRY RELIC
+
+---
+
+Threat Level:
+
+III
+
+---
+
+Артефакт начинает питаться эмоциями.
+
+---
+
+# CATASTROPHE 13
+
+## THE MIRROR EVENT
+
+---
+
+Threat Level:
+
+III
+
+---
+
+Зеркала показывают альтернативные жизни.
+
+---
+
+# CATASTROPHE 14
+
+## VAULT BREACH
+
+---
+
+Threat Level:
+
+IV
+
+---
+
+Несколько камер одновременно разгерметизируются.
+
+---
+
+Lore Reveal
+
+Учителя питают Хранилище.
+
+---
+
+# CATASTROPHE 15
+
+## THE SILENT SECTOR
+
+---
+
+Threat Level:
+
+IV
+
+---
+
+Открывается VII уровень.
+
+---
+
+Все записи исчезают.
+
+---
+
+# CATEGORY V
+
+# WORLD CRISES
+
+---
+
+# CATASTROPHE 16
+
+## THE INQUISITION SIEGE
+
+---
+
+Threat Level:
+
+IV
+
+---
+
+Ватру окружает армия.
+
+---
+
+First Reveal
+
+Школа переходит в Fortress Mode.
+
+---
+
+Все цепи становятся видимыми.
+
+---
+
+# CATASTROPHE 17
+
+## THE WAR OF RELICS
+
+---
+
+Threat Level:
+
+IV
+
+---
+
+Охотники за Реликвиями атакуют.
+
+---
+
+# CATASTROPHE 18
+
+## THE FALLING STAR
+
+---
+
+Threat Level:
+
+IV
+
+---
+
+С неба падает объект.
+
+---
+
+Позже выясняется:
+
+это реликвия.
+
+---
+
+# CATASTROPHE 19
+
+## THE BLACK FOG
+
+---
+
+Threat Level:
+
+IV
+
+---
+
+Люди начинают забывать своих близких.
+
+---
+
+# CATASTROPHE 20
+
+## THE ASHEN PLAGUE
+
+---
+
+Threat Level:
+
+IV
+
+---
+
+Магия перестаёт подчиняться правилам.
+
+---
+
+# CATEGORY VI
+
+# FOUNDATION CRISES
+
+---
+
+# CATASTROPHE 21
+
+## CASCADE FAILURE
+
+---
+
+Threat Level:
+
+V
+
+---
+
+Хранилище теряет питание.
+
+---
+
+Все преподаватели получают доступ к полной силе.
+
+---
+
+Lore Reveal
+
+Они опаснее большинства реликвий.
+
+---
+
+# CATASTROPHE 22
+
+## THE FIRST DREAM
+
+---
+
+Threat Level:
+
+V
+
+---
+
+Субъект 0 начинает видеть мир.
+
+---
+
+Effects
+
+Массовые видения.
+
+---
+
+# CATASTROPHE 23
+
+## THE HUNDREDTH RELIC
+
+---
+
+Threat Level:
+
+V
+
+---
+
+Последний артефакт найден.
+
+---
+
+Все фракции приходят в движение.
+
+---
+
+# CATASTROPHE 24
+
+## AWAKENING
+
+---
+
+Threat Level:
+
+V
+
+---
+
+Субъект 0 начинает пробуждаться.
+
+---
+
+# FINAL CATASTROPHE
+
+# CATASTROPHE 25
+
+## THE LAST LOCK
+
+---
+
+Threat Level:
+
+OMEGA
+
+---
+
+Последняя Печать разрушена.
+
+---
+
+All Systems Fail.
+
+---
+
+All Relics Activate.
+
+---
+
+All Factions Mobilize.
+
+---
+
+All Teachers Freed.
+
+---
+
+# FORTRESS PROTOCOL
+
+Во время финальной катастрофы:
+
+---
+
+Школа меняет форму.
+
+---
+
+Открываются:
+
+- скрытые коридоры;
+- боевые залы;
+- защитные бастионы;
+- древние механизмы.
+
+---
+
+# TEACHER REACTIONS
+
+---
+
+## Lucien
+
+Командует обороной.
+
+---
+
+## Morgana
+
+Спасает студентов.
+
+---
+
+## Alaric
+
+Ведёт бой.
+
+---
+
+## Seraphina
+
+Пытается использовать хаос.
+
+---
+
+## Victor
+
+Исчезает.
+
+---
+
+# FINAL QUESTION
+
+Во время Last Lock игрок понимает:
+
+---
+
+Все эти годы вопрос был не:
+
+> Что скрывает Ватра?
+
+---
+
+А:
+
+> Стоило ли вообще скрывать правду?
+
+---
+
+# SECRET META DETAIL
+
+Каждая катастрофа соответствует одной из Печатей.
+
+---
+
+Всего катастроф:
+
+25
+
+---
+
+Но основных Печатей:
+
+12
+
+---
+
+Если пройти игру несколько раз,
+
+можно заметить:
+
+каждый преподаватель заранее знает одну катастрофу.
+
+---
+
+И боится именно её.
+
+---
+
+END OF TOM XIII

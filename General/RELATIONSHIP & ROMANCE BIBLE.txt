@@ -1,0 +1,728 @@
+# VATRA WORLD BIBLE V4.3
+
+# TOM XVIII — RELATIONSHIP & ROMANCE BIBLE
+
+# LOVE, LOYALTY & BETRAYAL
+
+---
+
+# INTRODUCTION
+
+В большинстве историй романтика является побочной механикой.
+
+---
+
+В Ватре романтические связи являются политической силой.
+
+---
+
+Один роман может:
+
+- изменить судьбу факультета;
+- привести к катастрофе;
+- изменить фракцию;
+- открыть новую концовку;
+- разрушить многовековой заговор.
+
+---
+
+# CORE ROMANCE SYSTEM
+
+---
+
+# VARIABLES
+
+```text
+Attraction
+Trust
+Respect
+Compatibility
+Faction Alignment
+Shared Secrets
+```
+
+---
+
+# SPECIAL VARIABLE
+
+```text
+Forbidden Bond
+```
+
+---
+
+Используется только для:
+
+- преподаватель ↔ преподаватель
+- преподаватель ↔ бывший студент
+- разные фракции
+- семьи-враги
+- связи через реликвии
+
+---
+
+# RELATIONSHIP TIERS
+
+---
+
+## Acquaintance
+
+---
+
+## Friend
+
+---
+
+## Close Friend
+
+---
+
+## Trusted
+
+---
+
+## Confidant
+
+---
+
+## Romantic Interest
+
+---
+
+## Partner
+
+---
+
+## Soulbound
+
+---
+
+# SOULBOUND SYSTEM
+
+Редчайший тип отношений.
+
+---
+
+Условия:
+
+- совместный квест;
+- раскрытый секрет;
+- общая катастрофа;
+- максимальное доверие.
+
+---
+
+# Effect
+
+После смерти одного персонажа:
+
+другой получает постоянный мудлет.
+
+---
+
+# STUDENT ROMANCE ROUTES
+
+---
+
+# ARTHUR BLACKTHORN
+
+---
+
+## Route A
+
+Eleanor Ashcroft
+
+---
+
+Theme
+
+Duty vs Freedom
+
+---
+
+Conflict
+
+Семьи находятся по разные стороны политики.
+
+---
+
+Possible Outcomes
+
+Marriage
+
+Breakup
+
+Political Alliance
+
+---
+
+# Route B
+
+Cecilia Vale
+
+---
+
+Theme
+
+Law vs Compassion
+
+---
+
+Conflict
+
+Кандалы Торквемады.
+
+---
+
+Possible Outcome
+
+Освобождение преподавателей.
+
+---
+
+# Route C
+
+Player
+
+---
+
+Уникальный маршрут.
+
+---
+
+Может изменить его судьбу.
+
+---
+
+# ELEANOR ASHCROFT
+
+---
+
+## Route A
+
+Arthur
+
+---
+
+Самая популярная линия.
+
+---
+
+## Route B
+
+Cecilia
+
+---
+
+Скрытая линия.
+
+---
+
+Требует:
+
+- высокий Trust;
+- маршрут Reformists.
+
+---
+
+Последствия
+
+Меняет политическую карту Европы.
+
+---
+
+# CECILIA VALE
+
+---
+
+## Route A
+
+Arthur
+
+---
+
+## Route B
+
+Eleanor
+
+---
+
+## Route C
+
+Player
+
+---
+
+Особенность
+
+Через роман можно вступить в Children of the Lantern.
+
+---
+
+# MATTEO REED
+
+---
+
+## Route
+
+Elsa Winter
+
+---
+
+Theme
+
+Time & Dreams
+
+---
+
+Особенность
+
+Они могут видеть сны друг друга.
+
+---
+
+# VIKTORIA VON DRAKE
+
+---
+
+## Route
+
+Thomas Crowe
+
+---
+
+Theme
+
+Adventure & Darkness
+
+---
+
+Проблема
+
+Томас связан с демоном.
+
+---
+
+# SECRET STUDENT ROMANCES
+
+---
+
+# Noah ↔ Unknown Girl
+
+---
+
+Самая загадочная линия.
+
+---
+
+Никто не знает:
+
+существует ли она реально.
+
+---
+
+# TEACHER ROMANCES
+
+---
+
+# LUCIEN BLACKTHORN
+
+---
+
+## Hidden Route
+
+Isolde Winter
+
+---
+
+# Timeline
+
+Около 200 лет назад.
+
+---
+
+Причина провала
+
+Люциен выбрал долг.
+
+---
+
+# Hidden Dialogue
+
+> Некоторые решения становятся частью тебя навсегда.
+
+---
+
+# MORGANA VALE
+
+---
+
+## Hidden Route
+
+Helena von Drake
+
+---
+
+# Timeline
+
+1547
+
+---
+
+Во время экспедиции в Прагу.
+
+---
+
+# Result
+
+Никто не сделал первый шаг.
+
+---
+
+# Secret Item
+
+Silver Compass
+
+---
+
+Хранится у Helena.
+
+---
+
+# ALARIC THORNE
+
+---
+
+## Hidden Route
+
+Lady Elenora
+
+(умерла 170 лет назад)
+
+---
+
+Единственная женщина,
+которую он любил.
+
+---
+
+# Secret
+
+Её кольцо всё ещё хранится у него.
+
+---
+
+# ADRIAN CROWE
+
+---
+
+## Hidden Route
+
+Seraphina Noir
+
+---
+
+Самая опасная связь в школе.
+
+---
+
+# Timeline
+
+Более 100 лет назад.
+
+---
+
+# Result
+
+Закончилась предательством.
+
+---
+
+# Secret
+
+Никто не знает кто кого предал.
+
+---
+
+# SERAPHINA NOIR
+
+---
+
+Единственный преподаватель,
+который никогда не говорит правду
+о своих чувствах.
+
+---
+
+# FORBIDDEN RELATIONSHIPS
+
+---
+
+# Category I
+
+Different Factions
+
+---
+
+Example
+
+Lantern ↔ Custodes
+
+---
+
+# Category II
+
+Major Families
+
+---
+
+Example
+
+Ashcroft ↔ Vale
+
+---
+
+# Category III
+
+Teacher Secrets
+
+---
+
+Example
+
+Morgana ↔ Helena
+
+---
+
+# Category IV
+
+Artifact Bonds
+
+---
+
+Редчайший тип.
+
+---
+
+# ARTIFACT ROMANCE
+
+---
+
+Некоторые реликвии создают связь.
+
+---
+
+# Example
+
+Mirror of Regret
+
+---
+
+Два персонажа начинают видеть воспоминания друг друга.
+
+---
+
+# Effect
+
+Ускоренное развитие отношений.
+
+---
+
+# Risk
+
+Потеря собственной личности.
+
+---
+
+# POLITICAL MARRIAGES
+
+---
+
+# House Ashcroft
+
+Часто использует браки.
+
+---
+
+# House Blackthorn
+
+Практически никогда.
+
+---
+
+# House Vale
+
+Неофициально запрещает.
+
+---
+
+# House Reed
+
+Считает бессмысленными.
+
+---
+
+# House Thorne
+
+Поддерживает.
+
+---
+
+# TRAGIC LOVE STORIES
+
+---
+
+# THE FIRST SEEKERS
+
+---
+
+Двое студентов.
+
+---
+
+Погибли во время экспедиции.
+
+---
+
+До сих пор считаются символом верности.
+
+---
+
+# THE RED LETTERS
+
+---
+
+Любовная переписка.
+
+---
+
+Хранится в архиве.
+
+---
+
+Никто не знает имён авторов.
+
+---
+
+# THE SEVENTH PLATFORM
+
+---
+
+Легенда Ватры.
+
+---
+
+Раз в несколько лет
+на заброшенной платформе
+появляются две фигуры.
+
+---
+
+Считается:
+
+это души влюблённых,
+которые не успели встретиться.
+
+---
+
+# ROMANCE ENDINGS
+
+---
+
+# Eternal Partners
+
+---
+
+Совместная жизнь.
+
+---
+
+# Separated by Duty
+
+---
+
+Выбор обязанностей.
+
+---
+
+# Tragic End
+
+---
+
+Катастрофа.
+
+---
+
+# Memory Route
+
+---
+
+Один из партнёров забыт.
+
+---
+
+# Time Route
+
+---
+
+Разные временные линии.
+
+---
+
+# True Soulbound
+
+---
+
+Редчайшая концовка.
+
+---
+
+Любовь переживает:
+
+- смерть;
+- время;
+- катастрофы;
+- перезапуск мира.
+
+---
+
+# HIDDEN META SECRET
+
+Если собрать все романтические истории преподавателей:
+
+становится понятно,
+
+что большинство из них отказались
+не от свободы.
+
+---
+
+А от любви.
+
+---
+
+Потому что Ватра требовала жертв.
+
+---
+
+Именно поэтому многие из них
+остались добровольно,
+даже когда могли уйти.
+
+---
+
+# FINAL QUOTE
+
+> Самые прочные цепи —
+>
+> не те,
+>
+> что создал Торквемада.
+>
+> А те,
+>
+> которые люди надевают на себя сами.
+
+---
+
+END OF TOM XVIII

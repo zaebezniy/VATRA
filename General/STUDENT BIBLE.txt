@@ -1,0 +1,1433 @@
+# VATRA WORLD BIBLE V3.2
+
+# TOM XIV — STUDENT BIBLE
+
+# THE NEXT GENERATION OF VATRA
+
+---
+
+# DESIGN PHILOSOPHY
+
+В Elisia центром мира были семьи.
+
+---
+
+В VATRA центром мира являются поколения.
+
+---
+
+Каждый студент потенциально может:
+
+- стать героем;
+- стать злодеем;
+- стать преподавателем;
+- стать лидером фракции;
+- погибнуть;
+- исчезнуть;
+- заменить одного из Двенадцати.
+
+---
+
+# STUDENT GENERATION
+
+Год начала сюжета:
+
+1598
+
+---
+
+Текущее поколение считается:
+
+## The Ember Generation
+
+---
+
+Причина:
+
+именно им предстоит пережить все крупные катастрофы.
+
+---
+
+# STUDENT POWER TIERS
+
+---
+
+## Tier S
+
+Главные герои эпохи.
+
+---
+
+## Tier A
+
+Будущие лидеры.
+
+---
+
+## Tier B
+
+Влиятельные фигуры.
+
+---
+
+## Tier C
+
+Обычные студенты.
+
+---
+
+# S-TIER STUDENTS
+
+---
+
+# 01
+
+# ELEANOR ASHCROFT
+
+## Faculty
+
+Astra
+
+---
+
+## Age
+
+18
+
+---
+
+## Family
+
+Дочь главы Crown Office.
+
+---
+
+## Public Image
+
+Идеальная ученица.
+
+---
+
+# Personality
+
+- умная
+- дисциплинированная
+- амбициозная
+
+---
+
+# Hidden Secret
+
+Тайно ненавидит Корону.
+
+---
+
+# Personal Goal
+
+Уничтожить влияние семьи.
+
+---
+
+# Potential Future
+
+- Архимаг
+- Ректор
+- Революционер
+
+---
+
+# Romance Options
+
+- Arthur
+- Cecilia
+- Player
+
+---
+
+# Meta Importance
+
+Может привести к реформе Ватры.
+
+---
+
+# 02
+
+# ARTHUR BLACKTHORN
+
+## Faculty
+
+Ignis
+
+---
+
+## Age
+
+19
+
+---
+
+## Family
+
+Потомок Люциена.
+
+---
+
+# Public Truth
+
+Наследник ректора.
+
+---
+
+# Real Truth
+
+Не знает об этом.
+
+---
+
+# Personality
+
+- харизматичный
+- добрый
+- импульсивный
+
+---
+
+# Hidden Secret
+
+Люциен скрывает родство.
+
+---
+
+# Potential Future
+
+Следующий Ректор.
+
+---
+
+# Main Conflict
+
+Свобода преподавателей.
+
+---
+
+# 03
+
+# CECILIA VALE
+
+## Faculty
+
+Umbra
+
+---
+
+## Age
+
+18
+
+---
+
+## Family
+
+Потомок Морганы.
+
+---
+
+# Secret
+
+Моргана знает.
+
+---
+
+Сесилия нет.
+
+---
+
+# Personality
+
+- саркастичная
+- смелая
+- опасно любопытная
+
+---
+
+# Future Path
+
+Leader of Children of the Lantern
+
+---
+
+# Romance
+
+Arthur
+
+Eleanor
+
+Player
+
+---
+
+# 04
+
+# MATTEO REED
+
+## Faculty
+
+Astra
+
+---
+
+## Age
+
+17
+
+---
+
+## Family
+
+Связан с Матиасом Ридом.
+
+---
+
+# Secret
+
+Получает сообщения из будущего.
+
+---
+
+# Future Path
+
+Founder of Silent Star 2.0
+
+---
+
+# A-TIER STUDENTS
+
+---
+
+# 05
+
+# VIKTORIA VON DRAKE
+
+Faculty:
+
+Umbra
+
+---
+
+Лучшая охотница за реликвиями среди студентов.
+
+---
+
+Может стать новой Helena.
+
+---
+
+# 06
+
+# LUCA THORNE
+
+Faculty:
+
+Ignis
+
+---
+
+Потомок Аларика.
+
+---
+
+Считает учителей преступниками.
+
+---
+
+# 07
+
+# ELSA WINTER
+
+Faculty:
+
+Astra
+
+---
+
+Видит вещие сны.
+
+---
+
+# 08
+
+# THOMAS CROWE
+
+Faculty:
+
+Umbra
+
+---
+
+Потомок Адриана.
+
+---
+
+Боится демонов.
+
+---
+
+Хотя один из них наблюдает за ним.
+
+---
+
+# 09
+
+# MARIA VOSS
+
+Faculty:
+
+Silva
+
+---
+
+Лучший маг существ за 50 лет.
+
+---
+
+# 10
+
+# ADRIANA HALDEN
+
+Faculty:
+
+Astra
+
+---
+
+Из семьи Грегора.
+
+---
+
+Коллекционирует воспоминания.
+
+---
+
+# SPECIAL STUDENTS
+
+---
+
+# 11
+
+# THE UNKNOWN GIRL
+
+---
+
+Настоящее имя:
+
+Неизвестно.
+
+---
+
+Факультет:
+
+Отсутствует.
+
+---
+
+На фотографиях появляется.
+
+---
+
+В документах отсутствует.
+
+---
+
+# Hidden Secret
+
+Никто не помнит,
+
+когда она поступила.
+
+---
+
+# Meta Theory
+
+Связана с Субъектом 0.
+
+---
+
+# 12
+
+# NOAH OF THE LANTERN
+
+---
+
+Лидер Children of the Lantern.
+
+---
+
+Никто не знает его личности.
+
+---
+
+В разные годы это могут быть разные NPC.
+
+---
+
+# Hidden Mechanic
+
+Процедурный персонаж.
+
+---
+
+# 13
+
+# THE BOY FROM LEVEL VII
+
+---
+
+Официально не существует.
+
+---
+
+Некоторые студенты утверждают:
+
+видели мальчика в форме старого образца.
+
+---
+
+Проблема:
+
+такой формы не используют уже 300 лет.
+
+---
+
+# STUDENT SECRET SOCIETIES
+
+---
+
+# CHILDREN OF THE LANTERN
+
+Основу составляют:
+
+- Cecilia
+- Noah
+- Elsa
+
+---
+
+# ASHEN CIRCLE
+
+Основу составляют:
+
+- Eleanor
+- Adriana
+- Matteo
+
+---
+
+# THIRTEENTH KEY
+
+Основу составляют:
+
+- Viktoria
+- Thomas
+
+---
+
+# STUDENT RIVALRIES
+
+---
+
+## Arthur vs Luca
+
+Свобода против контроля.
+
+---
+
+## Eleanor vs Crown Office
+
+Личность против семьи.
+
+---
+
+## Cecilia vs Custodes
+
+Свобода против безопасности.
+
+---
+
+## Matteo vs Reality
+
+Будущее против настоящего.
+
+---
+
+# STUDENT ROMANCE NETWORK
+
+---
+
+Arthur ↔ Cecilia
+
+---
+
+Arthur ↔ Eleanor
+
+---
+
+Eleanor ↔ Cecilia
+
+---
+
+Viktoria ↔ Thomas
+
+---
+
+Elsa ↔ Matteo
+
+---
+
+Player ↔ Several Routes
+
+---
+
+# FUTURE TEACHER CANDIDATES
+
+После финала некоторые студенты могут заменить Двенадцать.
+
+---
+
+## Arthur
+
+Potential Lucien
+
+---
+
+## Cecilia
+
+Potential Morgana
+
+---
+
+## Luca
+
+Potential Alaric
+
+---
+
+## Viktoria
+
+Potential Helena
+
+---
+
+## Matteo
+
+Potential Matthias
+
+---
+
+# THE TERRIFYING POSSIBILITY
+
+Если игрок выбирает Ending A:
+
+(сохранить систему)
+
+---
+
+Через десятилетия часть студентов сама становится новыми заключёнными.
+
+---
+
+История повторяется.
+
+---
+
+# FINAL GENERATIONAL QUESTION
+
+Каждое поколение Ватры сталкивается с одним и тем же выбором:
+
+---
+
+Сохранить систему?
+
+---
+
+Разрушить систему?
+
+---
+
+Или создать нечто новое?
+
+---
+
+END OF TOM XIV PART I
+
+# VATRA WORLD BIBLE V3.3
+
+# TOM XIV — PART II
+
+# THE GREAT HOUSES OF EUROPE
+
+## BLOODLINES OF POWER
+
+---
+
+# INTRODUCTION
+
+Большинство студентов считает:
+
+Ватра принимает учеников по способностям.
+
+---
+
+Это правда.
+
+---
+
+Но не вся правда.
+
+---
+
+Уже более 500 лет некоторые семьи оказывают влияние на судьбу школы.
+
+---
+
+Одни поддерживают Ватру.
+
+---
+
+Другие мечтают её уничтожить.
+
+---
+
+Третьи ждут момента,
+когда смогут использовать её тайны.
+
+---
+
+# THE BLOODLINE SYSTEM
+
+Каждая Великая Семья обладает:
+
+- наследием;
+- фамильными артефактами;
+- скрытыми чертами;
+- политическим влиянием;
+- древними долгами;
+- семейными тайнами.
+
+---
+
+# HOUSE ASHCROFT
+
+## The Crown Bloodline
+
+---
+
+# Country
+
+England
+
+---
+
+# Motto
+
+> Порядок рождает процветание.
+
+---
+
+# Influence
+
+Crown Office
+
+---
+
+# Public Reputation
+
+Патриоты.
+
+---
+
+# Hidden Reputation
+
+Контролируют треть магических чиновников Европы.
+
+---
+
+# Family Artifact
+
+## The Iron Seal
+
+---
+
+Позволяет заключать магические договоры.
+
+---
+
+# Bloodline Trait
+
+### Royal Authority
+
++20% Charisma
+
++10% Politics
+
+---
+
+# Family Secret
+
+Именно Ashcroft подписали Первый Договор Ватры.
+
+---
+
+Они участвовали в превращении школы в тюрьму.
+
+---
+
+# Internal Conflict
+
+Часть семьи считает:
+
+что преподавателей нужно освободить.
+
+---
+
+Часть считает:
+
+что заключение должно продолжаться вечно.
+
+---
+
+# Heir
+
+Eleanor Ashcroft
+
+---
+
+# HOUSE BLACKTHORN
+
+## The Keepers
+
+---
+
+# Country
+
+Scotland
+
+---
+
+# Motto
+
+> Иногда долг важнее свободы.
+
+---
+
+# Influence
+
+Custodes Ignis
+
+---
+
+# Public Reputation
+
+Хранители знаний.
+
+---
+
+# Hidden Reputation
+
+Фактические управляющие Ватрой.
+
+---
+
+# Family Artifact
+
+## The First Key
+
+---
+
+Открывает доступ к одному из нижних уровней Хранилища.
+
+---
+
+# Bloodline Trait
+
+### Keeper's Mind
+
++20% Logic
+
++15% Research
+
+---
+
+# Family Secret
+
+Каждый глава семьи знает часть правды о Субъекте 0.
+
+---
+
+Но никто не знает её полностью.
+
+---
+
+# Hidden Burden
+
+Каждое поколение обязано отправить одного члена семьи в Custodes.
+
+---
+
+# Heir
+
+Arthur Blackthorn
+
+---
+
+# HOUSE VALE
+
+## The Healers
+
+---
+
+# Country
+
+France
+
+---
+
+# Motto
+
+> Спасение всегда имеет цену.
+
+---
+
+# Influence
+
+Forbidden Arts
+
+---
+
+# Public Reputation
+
+Лекари.
+
+---
+
+# Hidden Reputation
+
+Создатели половины запрещённых лечебных ритуалов Европы.
+
+---
+
+# Family Artifact
+
+## The Crimson Chalice
+
+---
+
+Может вылечить почти всё.
+
+---
+
+Цена неизвестна заранее.
+
+---
+
+# Bloodline Trait
+
+### Empath
+
++15% Healing
+
++15% Emotional Insight
+
+---
+
+# Family Secret
+
+Многие методы Морганы до сих пор используют под другими именами.
+
+---
+
+# Heir
+
+Cecilia Vale
+
+---
+
+# HOUSE THORNE
+
+## The Generals
+
+---
+
+# Country
+
+Holy Roman Empire
+
+---
+
+# Motto
+
+> Победа требует жертв.
+
+---
+
+# Influence
+
+Military Magic
+
+---
+
+# Public Reputation
+
+Защитники.
+
+---
+
+# Hidden Reputation
+
+Некоторые считают их военными преступниками.
+
+---
+
+# Family Artifact
+
+## Banner of Ash
+
+---
+
+Усиливает союзников во время кризисов.
+
+---
+
+# Bloodline Trait
+
+### Battlefield Instinct
+
++20% Duel Skill
+
++10% Leadership
+
+---
+
+# Family Secret
+
+Во время Великой Войны Пепла именно Thorne уничтожили город ради спасения континента.
+
+---
+
+# Heir
+
+Luca Thorne
+
+---
+
+# HOUSE REED
+
+## The Stargazers
+
+---
+
+# Country
+
+Bohemia
+
+---
+
+# Motto
+
+> Всё уже случилось.
+
+---
+
+# Influence
+
+Astra Faculty
+
+Silent Star
+
+---
+
+# Public Reputation
+
+Прорицатели.
+
+---
+
+# Hidden Reputation
+
+Большинство временных аномалий связано с ними.
+
+---
+
+# Family Artifact
+
+## Star Compass
+
+---
+
+Показывает вероятности будущего.
+
+---
+
+# Bloodline Trait
+
+### Temporal Echo
+
+Редкие вещие сны.
+
+---
+
+# Family Secret
+
+Некоторые члены семьи встречали собственных потомков.
+
+---
+
+# Heir
+
+Matteo Reed
+
+---
+
+# HOUSE VON DRAKE
+
+## The Hunters
+
+---
+
+# Country
+
+Austria
+
+---
+
+# Motto
+
+> Найди раньше других.
+
+---
+
+# Influence
+
+Экспедиции
+
+Артефактология
+
+---
+
+# Public Reputation
+
+Исследователи.
+
+---
+
+# Hidden Reputation
+
+Лучшие охотники за реликвиями в истории.
+
+---
+
+# Family Artifact
+
+## Hunter's Ledger
+
+---
+
+Книга, которая помогает находить артефакты.
+
+---
+
+# Bloodline Trait
+
+### Relic Sense
+
++15% Discovery Chance
+
+---
+
+# Family Secret
+
+Каждое поколение теряет кого-то во время экспедиций.
+
+---
+
+# Heir
+
+Viktoria von Drake
+
+---
+
+# HOUSE WINTER
+
+## The Dreamers
+
+---
+
+# Country
+
+Norway
+
+---
+
+# Motto
+
+> Сны никогда не лгут.
+
+---
+
+# Influence
+
+Prophecy
+
+---
+
+# Public Reputation
+
+Отшельники.
+
+---
+
+# Hidden Reputation
+
+Некоторые члены семьи никогда не просыпались после пророческих снов.
+
+---
+
+# Family Artifact
+
+## Moonglass
+
+---
+
+Позволяет видеть чужие сны.
+
+---
+
+# Bloodline Trait
+
+### Dreamwalker
+
+Повышенный шанс пророческих событий.
+
+---
+
+# Heir
+
+Elsa Winter
+
+---
+
+# HOUSE HALDEN
+
+## The Archivists
+
+---
+
+# Country
+
+Poland
+
+---
+
+# Motto
+
+> История принадлежит выжившим.
+
+---
+
+# Influence
+
+Memory Magic
+
+Archives
+
+---
+
+# Public Reputation
+
+Историки.
+
+---
+
+# Hidden Reputation
+
+Мастера управления памятью.
+
+---
+
+# Family Artifact
+
+## The Empty Journal
+
+---
+
+Записывает забытые воспоминания.
+
+---
+
+# Bloodline Trait
+
+### Perfect Recall
+
+Повышенная скорость обучения.
+
+---
+
+# Heir
+
+Adriana Halden
+
+---
+
+# THE FALLEN HOUSES
+
+---
+
+Некоторые семьи исчезли.
+
+---
+
+Официально.
+
+---
+
+# HOUSE TORQUEMADA
+
+---
+
+Считается уничтоженной.
+
+---
+
+Проблема:
+
+Victor Torquemada всё ещё жив.
+
+---
+
+# HOUSE NOIR
+
+---
+
+Семья Серафины.
+
+---
+
+Была стёрта из истории.
+
+---
+
+Но иногда появляются дети с теми же способностями.
+
+---
+
+# HOUSE CROWE
+
+---
+
+Семья Адриана.
+
+---
+
+Должна была вымереть.
+
+---
+
+Однако Thomas Crowe существует.
+
+---
+
+# THE HIDDEN BLOODLINES
+
+Существуют семьи,
+о которых нет записей.
+
+---
+
+Некоторые появились после контакта с артефактами.
+
+---
+
+Некоторые связаны с Субъектом 0.
+
+---
+
+Некоторые существуют одновременно в нескольких временных линиях.
+
+---
+
+# THE BLOODLINE WAR
+
+Скрытая война продолжается уже несколько столетий.
+
+---
+
+Основной вопрос:
+
+Кто должен контролировать Ватру?
+
+---
+
+# Candidate Factions
+
+---
+
+Ashcroft
+
+Корона
+
+---
+
+Blackthorn
+
+Хранители
+
+---
+
+Vale
+
+Реформаторы
+
+---
+
+Thorne
+
+Силовой контроль
+
+---
+
+Reed
+
+Поиск истины
+
+---
+
+Von Drake
+
+Экспедиции и артефакты
+
+---
+
+# GENERATIONAL PROPHECY
+
+Согласно старому пророчеству:
+
+> Когда потомки Двенадцати соберутся вместе,
+>
+> Ватра станет либо свободной,
+>
+> либо последней тюрьмой мира.
+
+---
+
+Большинство считает это легендой.
+
+---
+
+Но все основные наследники уже находятся в школе.
+
+---
+
+И именно они определят судьбу следующей эпохи.
+
+---
+
+END OF TOM XIV PART II

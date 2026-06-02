@@ -1,0 +1,219 @@
+https://bladesinthedark.com/sites/default/files/blades_playerkit_v8_2.pdf
+https://classic.fsmb.de/fileadmin/gruppen/basama/tum_ed_asg_coa/EP__Review_of_Open_Source_Mission_Analysis_Tools.pdf
+https://dokumen.pub/download/the-anatomy-of-adventure.html
+https://dtdnd.neocities.org/books/dm/DungeonMastersGuideII.pdf
+https://herefordshireboardgamers.co.uk/wp-content/uploads/2023/03/TTRPGSafetyToolkitGuidev2.5.pdf
+https://hjemmesider.diku.dk/~torbenm/Troll/manual.pdf
+https://lib.jucs.org/article/121185/download/pdf/
+https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf
+https://openarchive.nure.ua/bitstreams/3dad4d82-71d6-4b21-b497-644aeba87f2b/download
+https://openarchive.nure.ua/bitstreams/abfa9651-2753-45c8-8cfd-a3fe1912f0c5/download
+https://pdfs.semanticscholar.org/55eb/af3d62b542331e6ee5815a768b5f5835312e.pdf
+https://ueaeprints.uea.ac.uk/id/eprint/92736/1/Monstrous_Adventurers_.pdf
+https://uploads-ssl.webflow.com/5ea170ed8436ecad615df0bf/5eb2725c33da8ad329551c85_Games%20Design%20Document.pdf
+https://users.soe.ucsc.edu/~ejw/papers/smith-situating-quests-icids-2011.pdf
+https://www.scitepress.org/Papers/2019/74967/74967.pdf
+Англомовні статті з відновленими прямими посиланнями (знайдені в текстах)
+The Quest for the custom quest system (Game Developer) — https://www.gamedeveloper.com/design/the-quest-for-the-custom-quest-system
+My Approach To Economy Balancing Using Spreadsheets (Game Developer) — https://www.gamedeveloper.com/design/my-approach-to-economy-balancing-using-spreadsheets
+The Ingredients for Developing a Digital Wargame (Game Developer) — https://www.gamedeveloper.com/design/the-ingredients-for-developing-a-digital-wargame
+Virtue's Last Reward - the art of correcting mistakes (Game Developer) — https://www.gamedeveloper.com/design/virtue-s-last-reward---the-art-of-correcting-mistakes
+The 10 Biggest New TTRPGs Coming in 2026 (TTRPG Fanatics) — https://ttrpgfans.com/biggest-new-ttrpgs-coming-this-year/
+Game balance (Wikipedia) — https://en.wikipedia.org/w/index.php?title=Game_balance
+Tabletop role-playing game (Simple English Wikipedia) — https://simple.wikipedia.org/w/index.php?title=Tabletop_role-playing_game
+Role-playing game theory (Wikipedia) — https://en.wikipedia.org/w/index.php?title=Role-playing_game_theory
+2. Англомовні наукові статті, посібники та книги (відкриті PDF-посилання)
+Blades in the Dark Player Kit: https://bladesinthedark.com/sites/default/files/blades_playerkit_v8_2.pdf
+Review of Open Source Mission Analysis Tools: https://classic.fsmb.de/fileadmin/gruppen/basama/tum_ed_asg_coa/EP__Review_of_Open_Source_Mission_Analysis_Tools.pdf
+The Anatomy of Adventure: https://dokumen.pub/download/the-anatomy-of-adventure.html
+Dungeon Master's Guide II: https://dtdnd.neocities.org/books/dm/DungeonMastersGuideII.pdf
+TTRPG Safety Toolkit Guide: https://herefordshireboardgamers.co.uk/wp-content/uploads/2023/03/TTRPGSafetyToolkitGuidev2.5.pdf
+Troll: A Language for Specifying Die-Rolls: https://hjemmesider.diku.dk/~torbenm/Troll/manual.pdf
+Computational Game Unit Balancing based on Game Theory: https://lib.jucs.org/article/121185/download/pdf/
+D&D Basic Rules 2018: https://media.wizards.com/2018/dnd/downloads/DnD_BasicRules_2018.pdf
+Jesse Schell: The Art of Game Design: https://pdfs.semanticscholar.org/55eb/af3d62b542331e6ee5815a768b5f5835312e.pdf
+"Monstrous Adventurers": The Racecraft of the Dungeons and Dragons Imaginary: https://ueaeprints.uea.ac.uk/id/eprint/92736/1/Monstrous_Adventurers_.pdf
+Games Design Document (Template): https://uploads-ssl.webflow.com/5ea170ed8436ecad615df0bf/5eb2725c33da8ad329551c85_Games%20Design%20Document.pdf
+Situating Quests: Design Patterns for Quest and Level Design in Role-Playing Games: https://users.soe.ucsc.edu/~ejw/papers/smith-situating-quests-icids-2011.pdf
+Towards Simulated Morality Systems (Role-Playing Games as Artificial Societies): https://www.scitepress.org/Papers/2019/74967/74967.pdf
+Ось детальний перелік англомовних статей порталу Game Developer із прямими посиланнями та детальним описом їхнього змісту:
+
+1. **A novel idea: PAX East's Visual Novel Reading Room**
+URL: https://www.gamedeveloper.com/business/a-novel-idea-pax-east-s-visual-novel-reading-room
+Ця стаття від Кетрін Кросс (Katherine Cross) розглядає ініціативу "Visual Novel Reading Room" на виставці PAX East. Авторка підкреслює гнучкість візуальних новел як медіуму, що дозволяє розповідати незвичні та інклюзивні історії. Особливий акцент робиться на тому, як ці ігри розширюють межі репрезентації квір- та транс-спільнот у відеоіграх, досліджуючи теми, яких інші жанри часто уникають.
+
+2. **Alt.Ctrl.GDC Showcase: Threadsteading**
+URL: https://www.gamedeveloper.com/design/alt-ctrl-gdc-showcase-i-threadsteading-i-
+Стаття розповідає про унікальну гру Threadsteading, яка перетворює процес шиття на машині для квілтингу на настільну гру з контролем територій на гексагональній сітці. Проєкт розроблено спеціально для виставки альтернативних контролерів alt.ctrl.GDC, і він демонструє використання нетипових схем управління для створення фізичного та корисного спогаду (ковдри) про зіграну партію.
+
+3. **Analysis: Turn-Based Versus Real-Time**
+URL: https://www.gamedeveloper.com/game-platforms/analysis-turn-based-versus-real-time
+Сорен Джонсон (Soren Johnson), дизайнер таких ігор як Civilization IV, глибоко аналізує переваги та недоліки покрокових ігор у порівнянні з іграми в реальному часі. Він зазначає, що покрокові ігри сприяють більш стратегічному, доступному та детермінованому геймплею, тоді як ігри в реальному часі є більш захопливими, хаотичними та ідеально підходять для багатокористувацьких режимів.
+
+4. **Analysis: Warped Structures - Story In Date/Warp**
+URL: https://www.gamedeveloper.com/game-platforms/analysis-warped-structures---story-in-i-date-warp-i-
+Емілі Шорт (Emily Short) розглядає наративну структуру інді-візуальної новели *Date/Warp*, де поєднуються елементи таємничої науково-фантастичної пригоди з паралельними всесвітами та різноманітні романтичні лінії. Авторка критикує механіку багаторазового перегравання гри для досягнення справжнього фіналу, зазначаючи, що постійне розв'язання головоломок із трубами поступово витісняє художні якості самої історії.
+
+5. **Assassin's Creed: Revelations and the Importance of Cutting Features**
+URL: https://www.gamedeveloper.com/design/assassin-s-creed-revelations-and-the-importance-of-cutting-features
+На прикладі *Assassin's Creed: Revelations* Станіслав Костюк розглядає критичну важливість видалення застарілих ігрових функцій для покращення загального ігрового досвіду. Він стверджує, що механіки розбудови економіки та фракцій союзників, успадковані з попередньої частини, сюжетно не вписуються у гру і роблять нову перспективну систему крафту бомб практично марною. 
+
+6. **Avenues for Success and the Cost of Combat in RTS**
+URL: https://www.gamedeveloper.com/business/avenues-for-success-and-the-cost-of-combat-in-rts
+Брендон Кастіл (Brandon Casteel) зосереджується на проблемах дизайну стратегій у реальному часі (RTS), де перемога часто зводиться до показників шкоди (DPS) та банальної ефективності ресурсів. Він пропонує впроваджувати кілька незалежних шляхів до успіху та механіки з тимчасовими наслідками (наприклад, систему боєприпасів або механіку відступу підрозділів), щоб зробити бої менш бінарними та цікавішими.
+
+7. **Combat Analysis: Guacamelee**
+URL: https://www.gamedeveloper.com/design/combat-analysis-guacamelee
+У цьому матеріалі геймдизайнер Бен Руїс (Ben Ruiz) проводить ретельний та глибокий аналіз бойових механік, управління та внутрішніх систем популярної гри *Guacamelee* від Drinkbox Studio.
+
+8. **Compulsion Loops & Dopamine in Games and Gamification**
+URL: https://www.gamedeveloper.com/design/compulsion-loops-dopamine-in-games-and-gamification
+Автор Себастьєн Самсон (Sebastien Samson) пояснює, що сутність гейміфікації полягає не просто у видачі випадкових винагород гравцям, а у цілеспрямованому створенні циклів примусу (compulsion loops), які стимулюють вироблення дофаміну. Матеріал зачіпає теми внутрішньої та зовнішньої мотивації, балансування викликів і навичок, а також фактори довготривалого утримання.
+
+9. **Danielle's Inferno: To Hell and Back**
+URL: https://www.gamedeveloper.com/design/danielle-s-inferno-to-hell-and-back
+Сенді Чен (Sande Chen) розглядає гру *Danielle's Inferno*, яка є ігровою адаптацією однойменного оповідання та пропонує власне бачення мандрівки через дев'ять кіл пекла. Проєкт був розроблений компанією One More Story Games з використанням власного інструментарію Story Stylus.
+
+10. **Do you want your game to do everything or do one thing very well?**
+URL: https://www.gamedeveloper.com/design/do-you-want-your-game-to-do-everything-or-do-one-thing-very-well-
+У цій статті Даміон Шуберт (Damion Schubert) спонукає розробників критично оцінити філософію свого проєкту та зробити вибір: створювати гру з акцентом на величезну ширину можливостей і механік (breadth) або ж зосередитись на ідеальній відшліфованості та глибокому фокусі на чомусь одному (depth).
+
+11. **Dragon Age 2, and what Terminator 2 can teach RPGs**
+URL: https://www.gamedeveloper.com/design/dragon-age-2-and-what-terminator-2-can-teach-rpgs
+Крістофер Ебі (Christopher Aaby) піднімає питання гострого дисонансу між бойовими механіками та рольовим наповненням ігор на прикладі *Dragon Age 2*. Він критикує тенденцію змушувати гравців масово знищувати сотні безликих "червоносорочечників" і закликає розробників зробити супротивників більш значущими, щоб покращити якість бойової системи hack and slash.
+
+12. **Game Design Principle: Transparency**
+URL: https://www.gamedeveloper.com/design/game-design-principle-transparency
+Фабіан Фішер (Fabian Fischer) розглядає прозорість як фундаментальний принцип геймдизайну. Це означає, що ігрові механіки повинні бути повністю зрозумілими для гравця, а не приховуватися за складними формулами у "чорних скриньках". Виклик у таких іграх формується виключно завдяки системній та стратегічній глибині.
+
+13. **It's Elementary - Elemental: War on Magic Analysis**
+URL: https://www.gamedeveloper.com/design/it-s-elementary---elemental-war-on-magic-analysis-
+Джош Байсер (Josh Bycer) проводить аналіз глобальної 4X-стратегії *Elemental: War on Magic*, звертаючи увагу на те, як тісно переплітаються її механіки. Зокрема, зміни у видобутку ресурсів (наприклад, заліза чи коней), перегляд бойової системи без використання механіки "stack of doom" та нова динаміка дипломатії формують якісний приклад комплексного ігрового процесу.
+
+14. **Let's compare the narrative design of Tactical Breach Wizards and Into the Breach**
+URL: https://www.gamedeveloper.com/design/let-s-compare-and-contrast-the-narrative-design-of-tactical-breach-wizards-and-into-the-breach
+Брайант Френсіс (Bryant Francis) порівнює підходи до наративного дизайну у двох іграх зі схожими фундаментальними механіками покрокової тактики. Він зазначає, що *Into the Breach* покладається на дуже стислий та мінімалістичний сюжет, тоді як *Tactical Breach Wizards* успішно додає до ігрового процесу авторський голос та гумор, пояснюючи, чому наявність гарної історії корисна не лише для гравців, але й для самих розробників.
+
+15. **Mastering the road ahead: How urban planning can inspire your game updates**
+URL: https://www.gamedeveloper.com/design/mastering-the-road-ahead-how-urban-planning-can-inspire-your-game-updates-
+На прикладі 4X-стратегії *Endless Space: Disharmony* Максенс Воло (Maxence Voleau) доводить, що принципи та логіка справжнього міського планування можуть надихнути розробників на більш ефективні підходи до оновлення ігор. Обговорюються методи м'якої зміни параметрів або додавання нового контенту для усунення домінантних стратегій, уникаючи радикального видалення об'єктів, яке викликає негативну емоційну реакцію у гравців.
+
+16. **Mixing beat'em up brawler with bullet hell shooter in a single game**
+URL: https://www.gamedeveloper.com/design/mixing-beat-em-up-brawler-with-bullet-hell-shooter-in-a-single-game
+Розробник Мілан Бабусков (Milan Babuskov) детально описує свої спроби об'єднати два фактично несумісні жанри — класичний beat'em up (рукопашний бій) та bullet hell шутер (ухилення від величезної кількості пострілів) в одній грі *Son of a Witch*. У матеріалі викладено можливі виклики та креативні вирішення таких дизайн-проблем.
+
+17. **Personality And Play Styles: A Unified Model**
+URL: https://www.gamedeveloper.com/design/personality-and-play-styles-a-unified-model
+Барт Стюарт (Bart Stewart) пропонує уніфіковану теоретичну модель стилів гри, яка базується на синтезі популярних психологічних систем: типології Бартла, теорій Кайлуа, Лаззаро, Едвардса та системи MDA. Мета матеріалу — дати розробникам інструменти для точного розуміння поведінки гравців і створення відповідного до цих стилів контенту.
+
+18. **Terminology issues: from Casual to Hardcore**
+URL: https://www.gamedeveloper.com/design/terminology-issues-from-casual-to-hardcore
+Квентін Мето (Quentin Meteau) піднімає проблему розмитої та часто хибної термінології у відеоігровій індустрії. Автор розбирає терміни "Hardcore", "Casual" та "Midcore", які вважає надто розпливчастими, і пропонує власну альтернативну класифікацію для більш точного та корисного опису ігрового дизайну.
+
+19. **The Casual Fascism of Strategy Games**
+URL: https://www.gamedeveloper.com/design/the-casual-fascism-of-strategy-games
+Стаття політолога Мартіна Резні (Martin Rezny) пропонує критичний погляд на глобальні стратегічні ігри (особливо в жанрі 4X). Автор звертає увагу на те, що їхня фундаментальна схильність до змагань із нульовою сумою та безкінечної експансії-знищення нагадує "повсякденний фашизм". Він пропонує розширити жанр за рахунок кооперативних умов перемоги та дипломатичного вирішення конфліктів.
+
+20. **Turn-Based VS Real-Time**
+URL: https://www.gamedeveloper.com/design/turn-based-vs-real-time
+Джон Шейфер (Jon Shafer) детально розбирає глибокі відмінності в дизайні покрокових ігор та стратегій у реальному часі. Стаття розглядає питання контролю ігрового темпу, управління мікроменеджментом та те, як абстракція часу безпосередньо впливає на прийняття гравцями пріоритетних рішень (планування проти виконання).
+
+21. **Virtual Economic Theory: How MMOs Really Work**
+URL: https://www.gamedeveloper.com/business/virtual-economic-theory-how-mmos-really-work
+Саймон Ладгейт (Simon Ludgate) аналізує приховані механізми функціонування віртуальних економік у таких іграх як *Asheron's Call*, *EVE Online* та *Final Fantasy XIV*. У статті розкриваються концепти швидкості пропозиції товарів, втрат від альтернативних можливостей, а також пояснюється, чому внутрішньоігрове "золото" насправді діє не так, як класична фіатна валюта в реальному світі.
+
+22. **Why habit formation is the key to long term retention**
+URL: https://www.gamedeveloper.com/business/why-habit-formation-is-the-key-to-long-term-retention
+У цій статті пояснюється, що процес формування людських звичок має суто механічну природу. Автор доводить, що розуміння і застосування принципів формування звичок є абсолютно ключовим для забезпечення довгострокового утримання (retention) гравців, адже гравець, який звик успішно грати у вашу гру, найімовірніше повертатиметься до неї знову і знову.
+
+Ось детальний огляд та посилання на англомовні обговорення, статті та бази знань, які ви вибрали. Оскільки деякі прямі веб-адреси приховані платформою з міркувань безпеки, я додав точні посилання там, де вони були збережені у вашій базі даних, а для інших вказав платформу-джерело. 
+
+### 1. Англомовні обговорення на Reddit та форумах
+
+*   **Anyone else tired of modern MMOs with instant death mechanics? : r/MMORPG**
+    *Посилання:* `https://www.reddit.com/r/MMORPG/comments/1sq4i58/anyone_else_tired_of_modern_mmos_with_instant/`
+    Ця гілка зосереджена на критиці механік "миттєвої смерті" (one-shot) у таких іграх як World of Warcraft, Guild Wars 2 та FFXIV. Гравці скаржаться, що такі механіки перетворюють гру на "Simon Says", повністю нівелюючи навички ухилення або звичайний захист. Інші користувачі пояснюють, що це вимушений крок розробників: оскільки сучасні цілителі не мають жорстких обмежень по мані і можуть миттєво відновлювати будь-яку нелетальну шкоду, єдиний спосіб зробити механіку боса значущою — це вбити гравця, який припустився помилки.
+*   **Group Composition questions. : r/PantheonMMO**
+    *Посилання:* `https://www.reddit.com/r/PantheonMMO/comments/cos1il/group_composition_questions/`
+    Користувачі обговорюють структуру груп у майбутній грі *Pantheon: Rise of the Fallen*, яка планує відійти від звичної "святої трійці" (Танк-Хіл-ДД) на користь "четвертірної" (quaternary) системи. У цій моделі четвертою обов'язковою роллю стає клас підтримки або контролю натовпу (як-от Бард чи Енчантер), що надихається класичними механіками *EverQuest* та змушує гравців застосовувати глибоку тактику замість того, щоб просто заливати ворогів чистою шкодою.
+*   **How would you introduce new and creative tank mechanics beyond the usual "kitchen sink and swap"? : r/ffxivdiscussion**
+    *Посилання:* `https://www.reddit.com/r/ffxivdiscussion/comments/16dq77u/how_would_you_introduce_new_and_creative_tank/`
+    Гравці, які спеціалізуються на танках у *Final Fantasy XIV*, шукають способи зробити свою роль цікавішою за просте використання захисних умінь та почергове перехоплення боса (tank swap). Пропоновані ідеї включають подвійні автоатаки по обох танках, механіки фейкових атак, вимоги до точного просторового позиціонування боса та необхідність переривання кастів.
+*   **Math: why rolling for stats is outrageously better than using the standard ability score system in 5E : r/DnD**
+    *Джерело:* Reddit (r/DnD). 
+    Сатиричний допис, де автор жартома "доводить" математичну перевагу кидання характеристик (4d6 з відкиданням найгіршого кубика) над стандартним масивом чи купівлею очок (point buy). Розрахунки показують, що середній результат кидків дорівнює 73.5 балам у сумі проти 72 балів зі стандартного масиву. Хоча це лише гумор, пост спровокував серйозну дискусію: коментатори наголошують, що кидки можуть зробити одного гравця богоподібним, а іншого абсолютно слабким, що руйнує баланс команди, тоді як point buy гарантує рівні стартові умови для всіх.
+*   **OSR vs. FitD vs. PbtA: Which Fits My Group Best? : r/rpg**
+    *Джерело:* Reddit (r/rpg). 
+    Майстер гри шукає систему для гравців, які досі грали лише в D&D. Їхня група цінує оптимістичний настрій, високу силу персонажів та використання своїх здібностей для вирішення проблем. Користувачі радять уникати OSR, де сила здобувається важко і гравці часто гинуть, покладаючись на власний розум. Натомість найкращим вибором називають системи сімейства *Powered by the Apocalypse* (наприклад, ігри *Fellowship* чи *Dungeon World*), які дають гравцям багато інструментів та пропонують кінематографічну, супергеройську атмосферу вирішення проблем.
+*   **Point and click adventures: Are they dead? : r/gamedesign**
+    *Посилання:* `https://www.reddit.com/r/gamedesign/comments/rklhd3/point_and_click_adventures_are_they_dead/`
+    Обговорення щодо життєздатності жанру "point-and-click" квестів. Дизайнери відзначають, що класичні представники жанру страждали від нелогічних головоломок та занадто повільного темпу. Сучасний дизайн ігор привчив аудиторію до швидких винагород, проте сам жанр не помер, а трансформувався у "симулятори ходьби" та візуальні новели, де інвентарні головоломки замінено наративним дослідженням.
+*   **Role expansion : r/MMORPG**
+    *Посилання:* `https://www.reddit.com/r/MMORPG/comments/1pwgbye/role_expansion/`
+    Дискусія про розширення стандартних ролей в MMO шляхом додавання суто утилітарних класів, які спеціалізуються не стільки на бою, скільки на подоланні перешкод підземелля (наприклад, злом замків або прискорення групи). Критики вказують, що гравці завжди оптимізують геймплей, і такі класи або стануть обов'язковою вимогою (мета-складом), або виявляться нікому не потрібними під час швидкого "фарму" ресурсів.
+*   **What different kinds of scenes are there in RPGs, or your RPG in particular? : r/RPGdesign**
+    *Джерело:* Reddit (r/RPGdesign). 
+    Розробники діляться своїми підходами до класифікації "сцен" у настільно-рольових іграх для кращого управління темпом гри. Загальновизнаний поділ включає 4 основні типи: Екшен (Action), Дослідження (Exploration), Соціальна взаємодія / Відіграш (Roleplay) та Вільний час (Downtime).
+*   **What are the odds of rolling specific ability score totals in D&D?**
+    *Посилання:* `https://rpg.stackexchange.com/q/153527`. 
+    Докладний статистичний аналіз ймовірностей при генерації характеристик. Експерти ресурсу наводять повні математичні таблиці: середній бал характеристики при кидку 4d6 (з відкиданням найнижчого) становить 12.24, а ймовірність отримати 18 на кубиках становить лише 1.62%.
+*   **dnd 5e 2014 - How do I determine my ability scores?**
+    *Посилання:* `https://rpg.stackexchange.com/a/92140`.
+    Відповідь для новачка, де детально пояснено різницю між показником характеристики (Ability Score) та її модифікатором (Modifier), а також перераховано базові методи генерації: кидки 4d6, стандартний масив (15, 14, 13, 12, 10, 8) або система купівлі очок (Point Buy).
+*   **Rolling Vs. Point Buy: Stats & Discussion**
+    *Джерело:* Giant in the Playground Forums. 
+    Форумна гілка, де ветерани рольових ігор дискутують про переваги та недоліки випадкової генерації персонажів у порівнянні з розрахунковим створенням через купівлю балів.
+*   **8 Player Raid/Quest Concept - General Discussion**
+    *Джерело:* Warframe Forums. 
+    Користувацька пропозиція щодо додавання складного рейдового контенту на 8 осіб до гри Warframe.
+
+---
+
+### 2. Аналітичні статті з геймдизайну (Game Developer, Dicebreaker, TTRPG Games та інші)
+
+*   **MMO game mechanics learning: I've seen this before**
+    *Посилання:* `https://www.gamedeveloper.com/design/mmo-game-mechanics-learning-i-ve-seen-this-before`. 
+    Абель Баскунана Понс досліджує проблему "перевантаження" (overwhelming) новачків у MMO. Він наголошує на важливості поступового, контекстного навчання, коли інтерфейс та складні механіки відкриваються гравцю лише тоді, коли він має можливість їх засвоїти на практиці, замість того, щоб вивалювати на нього всі можливості з самого початку.
+*   **You are all cheaters! (Raph Koster)**
+    *Посилання:* `https://www.raphkoster.com/2007/12/28/you-are-all-cheaters/`. 
+    Провокаційне есе ветерана ігрової індустрії Рафа Костера. Він стверджує, що читання стратегічних гайдів, баз даних типу Thottbot або проходжень (walkthroughs) є формою чітерства. Костер вважає, що рейди в MMO — це складні логічні головоломки, і розробники навмисно приховують інформацію; коли гравець читає готовий рецепт вбивства боса, він "краде в себе урок" та позбавляє гру сенсу, залишаючи собі лише механічний обов'язок "натискати на кнопки".
+*   **Player Skill, Character Skill, and Skill Progression Systems**
+    *Посилання:* `https://www.gamedeveloper.com/design/player-skill-character-skill-and-skill-progression-systems`. 
+    Розбір концептуальної різниці між навичками самого гравця (як добре ви стріляєте чи вчасно тиснете кнопки) та навичками персонажа (математичні показники здоров'я та шкоди). Автор попереджає, що надмірне посилення статистик персонажа може зруйнувати цікавість до гри: бої, які вимагали високої тактичної майстерності, перетворюються на нудну рутину, коли герой стає настільки потужним, що може ігнорувати будь-який виклик.
+*   **The Quest for the custom quest system**
+    *Посилання:* `https://www.gamedeveloper.com/design/the-quest-for-the-custom-quest-system`. 
+    Стаття розглядає розробку інструментів для створення квестів. Мета такого інструмента — не створювати самі завдання, а дати гнучку структуру (паттерни квестів та надструктури) розробникам, щоб вони могли комбінувати 8 базових типів завдань у різноманітний та захопливий контент.
+*   **Story-Driven vs Crunchy Mechanics**
+    *Джерело:* TTRPG Games. 
+    Порівняння двох фундаментальних шкіл настільно-рольових ігор. Сюжетно-орієнтовані (Story-Driven) ігри, такі як *Apocalypse World* чи *FATE*, покладаються на легкі правила та заохочують спільне створення історії гравцями й майстром. "Кранчові" (Crunchy) ігри, як *Pathfinder* чи *GURPS*, фокусуються на глибокій тактиці, математичній оптимізації характеристик, точному управлінні ресурсами та жорстких правилах бою.
+*   **D&D 5E vs Pathfinder 2E: Which RPG should you play?**
+    *Джерело:* Dicebreaker. 
+    Детальне порівняння двох титанів жанру. D&D 5E використовує принцип "Обмеженої точності" (Bounded Accuracy) і пропонує швидші, менш математично навантажені бої, але може викликати труднощі у майстра під час балансування на високих рівнях. Pathfinder 2E, навпаки, є значно більш "хрусткою" (crunchy) грою, що винагороджує гравців за тактичне мислення та дає майстру неймовірно чіткі інструменти для створення випробувань будь-якої складності.
+*   **10 Tips For Better Side Quest Design**
+    *Джерело:* TTRPG Games. 
+    Експерти радять контролювати "Індекс різноманітності квестів" (QDI), щоб уникнути втоми гравців від одноманітних завдань зі збору предметів (fetch quests). Хороші побічні завдання повинні пропонувати соціальні або детективні виклики та винагороджувати гравця сюжетними одкровеннями чи розкриттям лору світу, а не лише золотом.
+*   **10 Best Tabletop RPG Games – Ultimate Adventure Guide for 2026**
+    *Джерело:* Eneba. 
+    Підбірка найкращих НРІ на 2026 рік. Серед них виділено *Pathfinder*, який хвалять за глибоку тактичну кастомізацію персонажів, та інші системи, що балансують між класичними механіками D20 і свободою сюжету.
+*   **Game Balance 101: 5 Ways You Should Balance Your Game**
+    *Джерело:* GameDev Gems. 
+    Посібник з п'яти ключових підходів до балансування ігор: використання власної інтуїції розробника, аналіз очікувань жанру, математичне моделювання характеристик (Mathematical Modeling), проведення плейтестів з фокус-групами та збір глибокої ігрової аналітики.
+*   **Game Balance Fundamentals - Create a Fair Game**
+    *Джерело:* Tabletop Creator. 
+    Матеріал пояснює різницю між механічним балансом та *психологічним* (як гравці сприймають справедливість), а також економічним балансом (дефіцит ресурсів). Автор пропонує гібридний підхід: створення сильного, симетричного базового набору правил, на який пізніше накладаються дрібні, легко контрольовані асиметричні бонуси для фракцій.
+*   **The Never-ending balance of Asymmetrical Game Design**
+    *Джерело:* Game Wisdom. 
+    Аналіз складнощів балансування асиметричних ігор (наприклад, Left 4 Dead чи Dead by Daylight). Зміна характеристик однієї сторони може повністю зіпсувати задоволення іншій. Ситуація ускладнюється фактором навичок гравців (Skill Factor): те, що здається ідеально збалансованим для ветеранів, може бути абсолютно непрохідним для новачків.
+*   **Unlocking the secrets of puzzle design**
+    *Посилання:* `http://www.adventureclassicgaming.com/index.php/site/features/423/`. 
+    Дослідження принципів створення головоломок у класичних адвенчурах.
+*   **Application of Puzzle Theory**
+    *Посилання:* `https://junk.dk/puzzle/`. 
+    Розбір теорії головоломок, зокрема аналіз інвентарних загадок (де логіка застосування предмета не має зводитися до сліпого перебору "все з усім") та класичних "Відволічи-і-схопи" (Distract-n-Grab) загадок, які вимагають таймінгу та кмітливості.
+
+**Додаткові ресурси для вивчення геймдизайну з вашої бази:**
+*   *Adventure Game Design (Fundamentals, Levels, Puzzles, UI)* — про створення пригодницьких ігор та механіки обходу жанрових кліше.
+*   *Human values in game design* — розбір того, як емоційні, культурні та тактичні петлі зворотного зв'язку формують емерджентні (спонтанні) сюжети.
+*   *How to make a roleplaying game* — про розробку власної ігрової петлі та використання механік SRD.
+*   *Conceptual Design > Mission Architecture Design (NASA)*, *Chapter 9: Spacecraft Classification*, *Space Mission Design - Eidel* та *Understanding mission command* — матеріали з інженерії та системного управління проектами, які можуть стати в нагоді під час розробки глобальної логіки фракцій чи створення симуляційних структур.
+

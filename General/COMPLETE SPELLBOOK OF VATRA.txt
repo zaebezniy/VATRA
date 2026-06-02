@@ -1,0 +1,2155 @@
+# VATRA WORLD BIBLE V5.3
+
+# TOM XXII — SPELLBOOK OF VATRA
+
+# PART I — THE ARCANE CURRICULUM
+
+---
+
+# INTRODUCTION
+
+В отличие от большинства магических школ, Ватра официально не делит магию на "светлую" и "тёмную".
+
+---
+
+Основной принцип школы:
+
+> Магия — инструмент.
+>
+> Ответственность лежит на волшебнике.
+
+---
+
+# COURSE STRUCTURE
+
+## YEAR I
+
+Основы магии
+
+---
+
+## YEAR II
+
+Контроль энергии
+
+---
+
+## YEAR III
+
+Практическая магия
+
+---
+
+## YEAR IV
+
+Специализация
+
+---
+
+## YEAR V
+
+Продвинутая специализация
+
+---
+
+## YEAR VI
+
+Экспедиционная магия
+
+---
+
+## YEAR VII
+
+Мастерство
+
+---
+
+# MAGIC TIERS
+
+## Novice
+
+Годы I-II
+
+---
+
+## Adept
+
+Годы III-IV
+
+---
+
+## Expert
+
+Годы V-VI
+
+---
+
+## Master
+
+Год VII
+
+---
+
+## Forbidden
+
+Только преподаватели
+
+---
+
+# LUCIEN BLACKTHORN
+
+## School
+
+Высшая Ритуалистика
+
+## Total Spells
+
+18
+
+---
+
+### YEAR I
+
+#### Lux Scriptum
+
+Создание светящихся рун.
+
+---
+
+#### Sigillum Minor
+
+Создание простых магических печатей.
+
+---
+
+### YEAR II
+
+#### Arcana Compass
+
+Поиск магических источников.
+
+---
+
+#### Echo Reading
+
+Чтение следов магии.
+
+---
+
+### YEAR III
+
+#### Circle of Anchors
+
+Стабилизация ритуала.
+
+---
+
+#### Ritual Mirror
+
+Просмотр последствий ритуала.
+
+---
+
+### YEAR IV
+
+#### Ward of Silence
+
+Блокировка магических сигналов.
+
+---
+
+#### Arcane Lock
+
+Запечатывание помещений.
+
+---
+
+### YEAR V
+
+#### Greater Binding
+
+Создание долговременных печатей.
+
+---
+
+#### Chain of Memory
+
+Связывание воспоминаний.
+
+---
+
+### YEAR VI
+
+#### Vault Beacon
+
+Поиск артефактов.
+
+---
+
+#### Astral Registry
+
+Регистрация магических объектов.
+
+---
+
+### YEAR VII
+
+#### Grand Seal
+
+Создание Печати уровня IV.
+
+---
+
+#### Archive of Echoes
+
+Извлечение магической истории объекта.
+
+---
+
+### MASTER
+
+#### World Anchor
+
+Стабилизация локальной реальности.
+
+---
+
+#### Sevenfold Circle
+
+Ритуал удержания аномалий.
+
+---
+
+### FORBIDDEN
+
+#### Foundation Lock
+
+Одна из магий удержания Субъекта 0.
+
+---
+
+#### Iteration Seal
+
+Магия циклов.
+
+---
+
+# MORGANA VALE
+
+## School
+
+Запретная Магия и Лечение
+
+---
+
+### YEAR I
+
+#### Minor Mend
+
+Лечение порезов.
+
+---
+
+#### Fever Break
+
+Снятие лихорадки.
+
+---
+
+### YEAR II
+
+#### Blood Sense
+
+Определение ранений.
+
+---
+
+#### Poison Reading
+
+Выявление ядов.
+
+---
+
+### YEAR III
+
+#### Flesh Stitch
+
+Восстановление тканей.
+
+---
+
+#### Shared Pain
+
+Перенос боли.
+
+---
+
+### YEAR IV
+
+#### Crimson Restoration
+
+Мощное лечение.
+
+---
+
+#### Soul Stitch
+
+Стабилизация души.
+
+---
+
+### YEAR V
+
+#### Vital Exchange
+
+Передача жизненной силы.
+
+---
+
+#### Echo Healing
+
+Лечение через воспоминания.
+
+---
+
+### YEAR VI
+
+#### Group Restoration
+
+Массовое исцеление.
+
+---
+
+#### Heart Recall
+
+Возвращение остановленного сердца.
+
+---
+
+### YEAR VII
+
+#### Miracle Bloom
+
+Полное восстановление организма.
+
+---
+
+#### Veil Against Death
+
+Защита от смертельных проклятий.
+
+---
+
+### MASTER
+
+#### Resurrection Window
+
+Возвращение недавно умершего.
+
+---
+
+#### Crimson Covenant
+
+Связывание жизней двух людей.
+
+---
+
+### FORBIDDEN
+
+#### Sacrificial Restoration
+
+Лечение ценой другой жизни.
+
+---
+
+#### Ashen Revival
+
+Ритуал Морганы времён Чумы.
+
+---
+
+# ALARIC THORNE
+
+## School
+
+Боевая Магия
+
+---
+
+### YEAR I
+
+#### Force Push
+
+Отталкивание цели.
+
+---
+
+#### Iron Guard
+
+Магический щит.
+
+---
+
+### YEAR II
+
+#### Battle Focus
+
+Повышение реакции.
+
+---
+
+#### Ash Strike
+
+Усиленный удар.
+
+---
+
+### YEAR III
+
+#### Arcane Blade
+
+Создание клинка из энергии.
+
+---
+
+#### Shock Line
+
+Линейная ударная волна.
+
+---
+
+### YEAR IV
+
+#### Bastion
+
+Укрепление союзников.
+
+---
+
+#### Crimson Charge
+
+Боевой рывок.
+
+---
+
+### YEAR V
+
+#### War Banner
+
+Усиление группы.
+
+---
+
+#### Guardian Field
+
+Защитная зона.
+
+---
+
+### YEAR VI
+
+#### Siege Breaker
+
+Разрушение укреплений.
+
+---
+
+#### Iron Legion
+
+Создание боевых конструктов.
+
+---
+
+### YEAR VII
+
+#### Ash Storm
+
+Массовое боевое заклинание.
+
+---
+
+#### Last Stand
+
+Резкое усиление при критическом ранении.
+
+---
+
+### MASTER
+
+#### Army of One
+
+Сила армии в одном маге.
+
+---
+
+#### General's Domain
+
+Контроль поля боя.
+
+---
+
+### FORBIDDEN
+
+#### Scorched Horizon
+
+Заклинание, уничтожившее три армии.
+
+---
+
+#### Ashfall Protocol
+
+Военная магия уровня катастрофы.
+
+---
+
+# OCTAVIA ASHMORE
+
+## School
+
+Алхимия
+
+## Total Spells
+
+18
+
+---
+
+### YEAR I
+
+#### Spark Catalyst
+
+---
+
+#### Glass Purification
+
+---
+
+### YEAR II
+
+#### Metal Bloom
+
+---
+
+#### Liquid Memory
+
+---
+
+### YEAR III
+
+#### Homunculus Seed
+
+---
+
+#### Philosopher Dust
+
+---
+
+### YEAR IV
+
+#### Golden Thread
+
+---
+
+#### Living Mercury
+
+---
+
+### YEAR V
+
+#### Stone Transmutation
+
+---
+
+#### Alchemical Fusion
+
+---
+
+### YEAR VI
+
+#### Grand Distillation
+
+---
+
+#### Arcane Solvent
+
+---
+
+### YEAR VII
+
+#### Living Alloy
+
+---
+
+#### Emerald Formula
+
+---
+
+### MASTER
+
+#### Philosopher Spark
+
+---
+
+#### Eternal Reagent
+
+---
+
+### FORBIDDEN
+
+#### True Transmutation
+
+---
+
+#### Genesis Crucible
+
+---
+
+# ELIAS VOSS
+
+## School
+
+Магические Существа
+
+## Total Spells
+
+18
+
+---
+
+### YEAR I
+
+#### Beast Whisper
+
+---
+
+#### Calm Creature
+
+---
+
+### YEAR II
+
+#### Track Essence
+
+---
+
+#### Animal Bond
+
+---
+
+### YEAR III
+
+#### Chimera Insight
+
+---
+
+#### Flock Call
+
+---
+
+### YEAR IV
+
+#### Pack Link
+
+---
+
+#### Predator Sight
+
+---
+
+### YEAR V
+
+#### Guardian Beast
+
+---
+
+#### Shared Instinct
+
+---
+
+### YEAR VI
+
+#### Greater Summon
+
+---
+
+#### Wild Command
+
+---
+
+### YEAR VII
+
+#### Ancient Beast Pact
+
+---
+
+#### Heart of the Forest
+
+---
+
+### MASTER
+
+#### Sovereign of Creatures
+
+---
+
+#### Prime Pack
+
+---
+
+### FORBIDDEN
+
+#### Chimera Genesis
+
+---
+
+#### Flesh Convergence
+
+---
+
+# REMAINING TEACHERS
+
+В следующих частях будут полностью расписаны:
+
+* Seraphina Noir (Теневая Магия)
+* Gregor Halden (Магия Памяти)
+* Isolde Winter (Прорицание)
+* Adrian Crowe (Демонология)
+* Helena von Drake (Артефактология)
+* Matthias Reed (Астромагия)
+* Victor Torquemada (Магическое Право и Кандалы)
+* Hidden School of Subject 0
+* Lost Spells of the Makers
+
+---
+
+# CURRENT SPELL COUNT
+
+Lucien — 18
+
+Morgana — 18
+
+Alaric — 18
+
+Octavia — 18
+
+Elias — 18
+
+Total so far:
+
+90 spells
+
+Target:
+
+216+ spells
+
+---
+
+END OF TOM XXII PART I
+
+# VATRA WORLD BIBLE V5.4
+
+# TOM XXII — SPELLBOOK OF VATRA
+
+# PART II — SHADOWS, MEMORY, PROPHECY & DEMONS
+
+---
+
+# SERAPHINA NOIR
+
+## School
+
+Теневая Магия
+
+## Total Spells
+
+18
+
+---
+
+### YEAR I
+
+#### Shadow Candle
+
+Создаёт маленький источник теневого света.
+
+---
+
+#### Veil of Dusk
+
+Лёгкая маскировка.
+
+---
+
+### YEAR II
+
+#### Silent Step
+
+Заглушает шаги.
+
+---
+
+#### Shade Mark
+
+Оставляет невидимую метку.
+
+---
+
+### YEAR III
+
+#### Shadow Double
+
+Создаёт теневую копию.
+
+---
+
+#### Umbra Thread
+
+Следит за целью через её тень.
+
+---
+
+### YEAR IV
+
+#### Dimming Presence
+
+Уменьшает внимание к магу.
+
+---
+
+#### Night Curtain
+
+Создаёт область полумрака.
+
+---
+
+### YEAR V
+
+#### Shadow Bind
+
+Удерживает противника тенями.
+
+---
+
+#### Borrowed Face
+
+Временное изменение внешности.
+
+---
+
+### YEAR VI
+
+#### Living Darkness
+
+Оживляет тени.
+
+---
+
+#### Whisper Corridor
+
+Передача сообщений через тени.
+
+---
+
+### YEAR VII
+
+#### Black Court
+
+Создание теневого домена.
+
+---
+
+#### Kingless Throne
+
+Контроль группы существ.
+
+---
+
+### MASTER
+
+#### Sovereign Shadow
+
+Полный контроль собственной тени.
+
+---
+
+#### Eclipse Domain
+
+Локальное затмение.
+
+---
+
+### FORBIDDEN
+
+#### Shadow Sovereignty
+
+Контроль воли через тени.
+
+---
+
+#### Empire of Night
+
+Заклинание, которым Серфина управляла государствами.
+
+---
+
+# GREGOR HALDEN
+
+## School
+
+Магия Памяти
+
+## Total Spells
+
+18
+
+---
+
+### YEAR I
+
+#### Recall Name
+
+Восстановление забытого имени.
+
+---
+
+#### Memory Spark
+
+Поиск свежего воспоминания.
+
+---
+
+### YEAR II
+
+#### Shared Memory
+
+Передача воспоминания.
+
+---
+
+#### Memory Anchor
+
+Закрепление памяти.
+
+---
+
+### YEAR III
+
+#### Echo Retrieval
+
+Извлечение старых воспоминаний.
+
+---
+
+#### Archive Touch
+
+Чтение памяти предмета.
+
+---
+
+### YEAR IV
+
+#### Emotional Echo
+
+Просмотр эмоций прошлого.
+
+---
+
+#### Forgotten Door
+
+Поиск утраченной информации.
+
+---
+
+### YEAR V
+
+#### Living Archive
+
+Создание хранилища памяти.
+
+---
+
+#### Memory Thread
+
+Связь между воспоминаниями.
+
+---
+
+### YEAR VI
+
+#### Collective Recall
+
+Групповое восстановление памяти.
+
+---
+
+#### Lost Century
+
+Поиск стёртых событий.
+
+---
+
+### YEAR VII
+
+#### Chronicle Vision
+
+Просмотр исторического события.
+
+---
+
+#### Mind Vault
+
+Защита воспоминаний.
+
+---
+
+### MASTER
+
+#### Memory Reconstruction
+
+Воссоздание утраченной истории.
+
+---
+
+#### Archive Incarnate
+
+Превращение памяти в физическую форму.
+
+---
+
+### FORBIDDEN
+
+#### Erase Existence
+
+Удаление личности.
+
+---
+
+#### Great Forgetting
+
+Массовое стирание памяти.
+
+---
+
+# ISOLDE WINTER
+
+## School
+
+Прорицание
+
+## Total Spells
+
+18
+
+---
+
+### YEAR I
+
+#### Fortune Flicker
+
+Маленькое предчувствие.
+
+---
+
+#### Dream Trace
+
+Запоминание сна.
+
+---
+
+### YEAR II
+
+#### Fate Thread
+
+Видение ближайших событий.
+
+---
+
+#### Moon Reading
+
+Гадание по лунному свету.
+
+---
+
+### YEAR III
+
+#### Probability Sight
+
+Просмотр вероятностей.
+
+---
+
+#### Dream Door
+
+Вход в собственный сон.
+
+---
+
+### YEAR IV
+
+#### Future Fragment
+
+Краткое видение будущего.
+
+---
+
+#### Veil Reading
+
+Поиск скрытых событий.
+
+---
+
+### YEAR V
+
+#### Shared Dream
+
+Общий сон.
+
+---
+
+#### Fate Compass
+
+Поиск судьбоносного пути.
+
+---
+
+### YEAR VI
+
+#### Long Vision
+
+Видение далёкого будущего.
+
+---
+
+#### Parallel Reflection
+
+Наблюдение альтернативной линии.
+
+---
+
+### YEAR VII
+
+#### Thousand Futures
+
+Просмотр множества вариантов.
+
+---
+
+#### Destiny Knot
+
+Связывание судеб.
+
+---
+
+### MASTER
+
+#### Oracle State
+
+Состояние полного пророчества.
+
+---
+
+#### World Omen
+
+Предсказание мирового события.
+
+---
+
+### FORBIDDEN
+
+#### Final Prophecy
+
+Видение конца мира.
+
+---
+
+#### Observer's Dream
+
+Просмотр других циклов.
+
+---
+
+# ADRIAN CROWE
+
+## School
+
+Демонология
+
+## Total Spells
+
+18
+
+---
+
+### YEAR I
+
+#### Ember Ward
+
+Защита от низших сущностей.
+
+---
+
+#### True Name Spark
+
+Определение природы существа.
+
+---
+
+### YEAR II
+
+#### Infernal Mark
+
+Метка демона.
+
+---
+
+#### Pact Seal
+
+Малый договор.
+
+---
+
+### YEAR III
+
+#### Lesser Summon
+
+Призыв малого демона.
+
+---
+
+#### Abyssal Sight
+
+Видение демонических следов.
+
+---
+
+### YEAR IV
+
+#### Circle of Containment
+
+Круг удержания.
+
+---
+
+#### Bound Flame
+
+Контроль призванного существа.
+
+---
+
+### YEAR V
+
+#### Infernal Contract
+
+Настоящий договор.
+
+---
+
+#### Demon Tongue
+
+Язык Бездны.
+
+---
+
+### YEAR VI
+
+#### Rift Needle
+
+Прокол границы миров.
+
+---
+
+#### Greater Summon
+
+Призыв сильного демона.
+
+---
+
+### YEAR VII
+
+#### Abyss Gate
+
+Временный разлом.
+
+---
+
+#### Infernal Court
+
+Призыв нескольких сущностей.
+
+---
+
+### MASTER
+
+#### Archdemon Pact
+
+Договор уровня Архидемона.
+
+---
+
+#### Abyss Sovereignty
+
+Контроль области Бездны.
+
+---
+
+### FORBIDDEN
+
+#### World Rift
+
+Создание стабильного разлома.
+
+---
+
+#### Crowe's Bargain
+
+Заклинание, спасшее мир и проклявшее Адриана.
+
+---
+
+# SPECIAL DISCOVERY
+
+Каждый преподаватель тайно хранит одно заклинание,
+которое никогда не преподавалось студентам.
+
+---
+
+Эти заклинания называются:
+
+## The Twelve Forbidden Works
+
+---
+
+Считается, что именно они привели преподавателей к их приговорам.
+
+---
+
+# CURRENT SPELL COUNT
+
+Lucien — 18
+
+Morgana — 18
+
+Alaric — 18
+
+Octavia — 18
+
+Elias — 18
+
+Seraphina — 18
+
+Gregor — 18
+
+Isolde — 18
+
+Adrian — 18
+
+Total:
+
+162 spells
+
+---
+
+В следующей части будут полностью раскрыты:
+
+* Helena von Drake
+* Matthias Reed
+* Victor Torquemada
+* School of Subject 0
+* Lost Magic of the Makers
+
+что доведёт количество заклинаний до 250+.
+
+# VATRA WORLD BIBLE V5.5
+
+# TOM XXII — SPELLBOOK OF VATRA
+
+# PART III — RELICS, STARS, CHAINS & THE LOST MAGIC
+
+---
+
+# HELENA VON DRAKE
+
+## School
+
+Артефактология
+
+## Total Spells
+
+18
+
+---
+
+# Philosophy
+
+Большинство магов используют магию.
+
+---
+
+Хелена учит:
+
+> Настоящий маг сначала понимает артефакт.
+>
+> Только потом касается его.
+
+---
+
+### YEAR I
+
+#### Relic Sense
+
+Определение наличия артефакта.
+
+---
+
+#### Aura Reading
+
+Чтение магического следа.
+
+---
+
+### YEAR II
+
+#### Object Memory
+
+Просмотр истории предмета.
+
+---
+
+#### Safe Touch
+
+Безопасная активация.
+
+---
+
+### YEAR III
+
+#### Relic Resonance
+
+Определение совместимости.
+
+---
+
+#### Trace Signature
+
+Поиск владельца артефакта.
+
+---
+
+### YEAR IV
+
+#### Artifact Shield
+
+Защита от воздействия реликвий.
+
+---
+
+#### Harmonic Link
+
+Настройка связи с предметом.
+
+---
+
+### YEAR V
+
+#### Resonance Break
+
+Прерывание связи.
+
+---
+
+#### Echo Stabilization
+
+Успокоение нестабильного объекта.
+
+---
+
+### YEAR VI
+
+#### Relic Mapping
+
+Построение сети артефактов.
+
+---
+
+#### Deep Reading
+
+Изучение скрытых свойств.
+
+---
+
+### YEAR VII
+
+#### Ancient Interface
+
+Контакт с разумным артефактом.
+
+---
+
+#### Keeper's Seal
+
+Временное запечатывание реликвии.
+
+---
+
+### MASTER
+
+#### Grand Harmonization
+
+Подчинение артефакта без разрушения.
+
+---
+
+#### Living Vault
+
+Создание временного хранилища.
+
+---
+
+### FORBIDDEN
+
+#### First Relic Contact
+
+Контакт с Печатью.
+
+---
+
+#### Omega Resonance
+
+Активация нескольких артефактов одновременно.
+
+---
+
+# MATTHIAS REED
+
+## School
+
+Астромагия и Хронология
+
+## Total Spells
+
+18
+
+---
+
+# Philosophy
+
+Маттиас утверждает:
+
+> Будущее нельзя увидеть.
+>
+> Можно лишь увидеть вероятность.
+
+---
+
+### YEAR I
+
+#### Star Spark
+
+Определение положения звёзд.
+
+---
+
+#### Celestial Trace
+
+Поиск астромагических следов.
+
+---
+
+### YEAR II
+
+#### Constellation Reading
+
+Чтение созвездий.
+
+---
+
+#### Lunar Calculation
+
+Лунные расчёты.
+
+---
+
+### YEAR III
+
+#### Stellar Path
+
+Поиск безопасного маршрута.
+
+---
+
+#### Probability Mark
+
+Определение вероятности.
+
+---
+
+### YEAR IV
+
+#### Astral Projection
+
+Краткий выход сознания.
+
+---
+
+#### Temporal Echo
+
+Чтение следов времени.
+
+---
+
+### YEAR V
+
+#### Future Fragment
+
+Просмотр ближайшего будущего.
+
+---
+
+#### Past Reflection
+
+Просмотр прошлого.
+
+---
+
+### YEAR VI
+
+#### Parallel Window
+
+Взгляд в другую линию.
+
+---
+
+#### Time Compass
+
+Поиск нужной вероятности.
+
+---
+
+### YEAR VII
+
+#### Convergence Sight
+
+Видение точек пересечения.
+
+---
+
+#### Astral Observatory
+
+Создание зоны наблюдения.
+
+---
+
+### MASTER
+
+#### Thousand Timelines
+
+Просмотр множества вариантов.
+
+---
+
+#### World Equation
+
+Расчёт глобальных событий.
+
+---
+
+### FORBIDDEN
+
+#### Iteration Memory
+
+Воспоминание о прошлых циклах.
+
+---
+
+#### Reed's Paradox
+
+Создание временного противоречия.
+
+---
+
+# VICTOR TORQUEMADA
+
+## School
+
+Магическое Право
+
+Кандалы
+
+Печати
+
+---
+
+## Total Spells
+
+18
+
+---
+
+# Philosophy
+
+> Свобода без ответственности
+>
+> становится катастрофой.
+
+---
+
+### YEAR I
+
+#### Oath Mark
+
+Создание магической клятвы.
+
+---
+
+#### Contract Sense
+
+Обнаружение нарушенных договоров.
+
+---
+
+### YEAR II
+
+#### Truth Seal
+
+Фиксация обещания.
+
+---
+
+#### Witness Rune
+
+Создание магического свидетеля.
+
+---
+
+### YEAR III
+
+#### Restriction Knot
+
+Ограничение способности.
+
+---
+
+#### Silent Verdict
+
+Малое наказание.
+
+---
+
+### YEAR IV
+
+#### Binding Order
+
+Принудительное исполнение условий.
+
+---
+
+#### Arcane Law
+
+Временное ограничение магии.
+
+---
+
+### YEAR V
+
+#### Covenant Chain
+
+Создание магической цепи.
+
+---
+
+#### Sentence Mark
+
+Наложение приговора.
+
+---
+
+### YEAR VI
+
+#### Greater Restriction
+
+Блокировка сильных способностей.
+
+---
+
+#### Tribunal Circle
+
+Создание зоны суда.
+
+---
+
+### YEAR VII
+
+#### Law Incarnate
+
+Воплощение магического закона.
+
+---
+
+#### Warden's Domain
+
+Контроль территории.
+
+---
+
+### MASTER
+
+#### Grand Sentence
+
+Приговор уровня государства.
+
+---
+
+#### Eternal Contract
+
+Неразрушимый договор.
+
+---
+
+### FORBIDDEN
+
+#### Torquemada Chains
+
+Создание Кандалов.
+
+---
+
+#### Foundation Verdict
+
+Одна из магий удержания Печатей.
+
+---
+
+# THE LOST SCHOOL OF SUBJECT 0
+
+---
+
+# Status
+
+Запрещена.
+
+---
+
+# Description
+
+Никто не знает её полного названия.
+
+---
+
+В архивах встречается только обозначение:
+
+## Prima Ars
+
+---
+
+Первая Магия.
+
+---
+
+# Отличие
+
+Все современные школы работают через:
+
+* энергию;
+* символы;
+* ритуалы.
+
+---
+
+Первая Магия работала через изменение самой реальности.
+
+---
+
+# Known Spells
+
+---
+
+#### Name of Fire
+
+Огонь узнаёт мага.
+
+---
+
+#### Name of Water
+
+Управление природой объекта.
+
+---
+
+#### Name of Memory
+
+Изменение воспоминаний реальности.
+
+---
+
+#### Name of Death
+
+Воздействие на сам факт смерти.
+
+---
+
+#### Name of Time
+
+Воздействие на причинность.
+
+---
+
+#### Name of Silence
+
+Удаление явления из мира.
+
+---
+
+#### Name of Return
+
+Восстановление уничтоженного.
+
+---
+
+#### Name of Beginning
+
+Создание новых закономерностей.
+
+---
+
+#### Name of End
+
+Разрушение закономерностей.
+
+---
+
+# LOST MAGIC OF THE MAKERS
+
+---
+
+# Classification
+
+Pre-First Age
+
+---
+
+# Description
+
+Магия,
+которая существовала до появления людей.
+
+---
+
+# Problem
+
+Современные маги не понимают её принципов.
+
+---
+
+# Known Works
+
+---
+
+## Maker Formula I
+
+Изменение пространства.
+
+---
+
+## Maker Formula II
+
+Изменение времени.
+
+---
+
+## Maker Formula III
+
+Изменение памяти мира.
+
+---
+
+## Maker Formula IV
+
+Создание Источников.
+
+---
+
+## Maker Formula V
+
+Создание Печатей.
+
+---
+
+## Maker Formula VI
+
+Создание Наблюдателей.
+
+---
+
+# THE ABSOLUTE SPELL
+
+---
+
+Существует одно заклинание,
+о котором знают только:
+
+* Субъект 0
+* Наблюдатель
+* возможно Makers
+
+---
+
+Название неизвестно.
+
+---
+
+В архивах фигурирует как:
+
+## The Final Formula
+
+---
+
+# Theory
+
+Именно оно запускает циклы.
+
+---
+
+Именно оно способно их остановить.
+
+---
+
+# THE TWELVE FORBIDDEN WORKS
+
+---
+
+Каждый преподаватель имеет собственное запрещённое произведение.
+
+---
+
+Lucien
+
+Iteration Seal
+
+---
+
+Morgana
+
+Ashen Revival
+
+---
+
+Alaric
+
+Ashfall Protocol
+
+---
+
+Octavia
+
+Genesis Crucible
+
+---
+
+Elias
+
+Flesh Convergence
+
+---
+
+Seraphina
+
+Empire of Night
+
+---
+
+Gregor
+
+Great Forgetting
+
+---
+
+Isolde
+
+Final Prophecy
+
+---
+
+Adrian
+
+World Rift
+
+---
+
+Helena
+
+Omega Resonance
+
+---
+
+Matthias
+
+Reed's Paradox
+
+---
+
+Victor
+
+Foundation Verdict
+
+---
+
+# THE HIDDEN DISCOVERY
+
+Если собрать:
+
+* все заклинания;
+* все реликвии;
+* все архивы;
+
+становится ясно:
+
+---
+
+Двенадцать Запретных Работ
+не являются отдельными заклинаниями.
+
+---
+
+Они являются частями
+одного огромного ритуала.
+
+---
+
+Того самого ритуала,
+который удерживает Ватру,
+Печати
+и сам мир от разрушения.
+
+---
+
+# FINAL QUOTE
+
+Из записей Люциена:
+
+> Самое опасное заклинание —
+>
+> не то,
+>
+> которое может уничтожить мир.
+>
+> А то,
+>
+> которое может его изменить.
+
+---
+
+END OF TOM XXII
+
+THE COMPLETE SPELLBOOK OF VATRA
+
+Total Known Spells:
+216+
+
+Forbidden Works:
+12
+
+Lost Works:
+6
+
+Absolute Formula:
+1
